@@ -1,0 +1,223 @@
+.main {
+  background-color: darkred;
+  background-image: url(./../public/dragon-bg-2.jpg);
+  background-position: center;
+  background-size: contain;
+  background-blend-mode: multiply;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100vh;
+}
+
+.section {
+  background-color: #777;
+  background-image: url(./../public/chinese-bg.jpg);
+  background-position: center;
+  background-size: cover;
+  background-blend-mode: multiply;
+  font-family: 'Blinker', sans-serif;
+  position: relative;
+
+  &__wrapper {
+  }
+
+  &__sticky-top {
+    position: relative;
+    border-bottom: 5px groove #fffc63;
+  }
+
+  &--sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+  }
+
+  &__title {
+    position: relative;
+    cursor: pointer;
+    background: linear-gradient(#4e0000, #8b0000, #4e0000);
+    user-select: none;
+    padding-inline: 1.25rem;
+    padding-top: 1.25rem;
+    padding-bottom: 1rem;
+    color: #fffc63;
+    font-size: 2.25rem;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    text-shadow: 2px 2px 2px #000;
+    text-transform: uppercase;
+    z-index: 1;
+
+    &:active {
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    & i {
+      text-shadow: none;
+      position: absolute;
+      right: 1.25rem;
+      top: 1.5rem;
+    }
+
+    & .expanded {
+      transform: rotate(0deg);
+      transition: transform .4s;
+    }
+
+    & .collapsed {
+      transform: rotate(180deg);
+      transition: transform .4s;
+    }
+  }
+
+
+}
+
+.food {
+  color: #EEE;
+  overflow: hidden;
+  transition:
+    max-height .5s ease-in-out,
+    opacity 1s;
+    
+    &--hidden {
+    opacity: 0;
+  }
+
+  &__container {
+    display: flex;
+    justify-content: space-between;
+    padding: 1.25rem;
+    gap: 2rem;
+  }
+
+  &__title {
+    color: #fffc63;
+    text-shadow: 2px 2px 2px #000;
+    font-size: 1.65rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+  }
+
+  &__desc {
+    color: #eee;
+    text-shadow: 2px 2px 2px #000;
+    padding-top: .25rem;
+    padding-bottom: .75rem;
+    font-size: 1.35rem;
+    font-weight: 300;
+    letter-spacing: 1px;
+  }
+
+  &__price {
+    color: #fffc63;
+    text-shadow: 2px 2px 2px #000;
+    font-size: 1.75rem;
+    letter-spacing: 1.5px;
+  }
+
+  &__img {
+
+  }
+}
+
+// MOBILE
+@media (max-width: 400px) {
+  .main {
+    height: 100svh;
+  }
+ 
+  .section {
+
+    &__wrapper {
+    }
+  
+    &__sticky-top {
+      // position: relative;
+    }
+
+    &__title {
+
+      & i {
+
+      }
+
+      & .expanded {
+
+      }
+
+      & .collapsed {
+
+      }
+    }
+
+    &--sticky {
+
+    }
+  }
+  
+  .food {
+  
+    &__container {
+
+    }
+  
+    &__title {
+    }
+  
+    &__desc {
+
+    }
+  
+    &__price {
+    }
+  
+    &__img {
+  
+    }
+  }
+}
+
+// DESKTOP
+@media (min-width: 60em) {
+  .section {
+  
+    &__wrapper {
+
+    }
+  
+    &__title {
+      
+    }
+  }
+  
+  .food {
+  
+    &__container {
+      display: flex;
+    }
+  
+    &__title {
+  
+    }
+  
+    &__desc {
+  
+    }
+  
+    &__price {
+  
+    }
+  
+    &__img {
+  
+    }
+  }
+}
+
+// TABLET
+@media (max-width: 100em) {
+  
+}
+

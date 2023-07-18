@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Bolinha de Gergelim com Recheio de Feijão Doce (6 unidades)",
+    "description": "Massa de arroz glutinoso com recheio de feijão doce",
+    "price": "R$28,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 2,
+    "title": "Panqueca Chinesa",
+    "description": "Preparada com ovos, alface, tomate, salsicha e folha crocante ao molho chinês",
+    "price": "R$28,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 3,
+    "title": "Rolinho Primavera",
+    "description": "Massa fina e crocante recheada de repolho, cenoura desfiada e lombo suíno. Acompanha molho agridoce (2 unidades)",
+    "price": "R$24,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 4,
+    "title": "Camarão Empanado Crocante Sem Casca (15 unidades)",
+    "description": "Acompanha molho agridoce",
+    "price": "R$72,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 5,
+    "title": "Wang Tang Frito (15 unidades)",
+    "description": "Casca fina crocante e recheada com lombinho suíno moído",
+    "price": "R$38,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 6,
+    "title": "Baozi (2 unidades)",
+    "description": "Tradicional pão chinês no vapor",
+    "price": "R$18,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 7,
+    "title": "Guioza Grelhado (12 unidades)",
+    "description": "Massa fresca e caseira recheada com lombinho suíno e verduras",
+    "price": "R$39,90",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 8,
+    "title": "Bolinha de Moji com Recheio de Gergelim (12 unidades)",
+    "description": "lorem ipsum",
+    "price": "",
+    "img": "https://placehold.jp/100x100.png"
+  }
+]

@@ -1,0 +1,57 @@
+.nav {
+  font-family: 'Blinker', sans-serif;
+  background: linear-gradient(#300000, #8b0000);
+  // background-color: #8b0000;
+  background-image: url(./../public/chinese-bg.jpg);
+  background-size: cover;
+  border-bottom: 5px groove #fffc63;
+  text-align: center;
+
+  &__wrapper {
+  }
+
+  &__wrapper > div {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  }
+
+  &__logo {
+    display: block;
+    height: 50px;
+    filter: drop-shadow(3px 3px 1px #000);
+  }
+
+  &__chinese-title {
+    display: block;
+    margin-top: 1rem;
+    height: 50px;
+    filter: drop-shadow(2px 3px 1px #000);
+  }
+
+  &__title {
+    padding-top: .25rem;
+    color: #fffc63;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgba(0, 0, 0, .7);
+    text-shadow: 2px 3px 1px #000;
+    text-transform: uppercase;
+    font-size: 5rem;
+    font-weight: 900;
+    font-family: 'Julee', cursive;
+    letter-spacing: 2.5px;
+  }
+  
+  &__subtitle {
+    padding-bottom: 1rem;
+    color: #fffc63;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    text-shadow: 2px 2px 2px #000;
+    text-transform: uppercase;
+    font-size: 1.75rem;
+    font-weight: 900;
+    letter-spacing: 1.5px;
+  }
+}

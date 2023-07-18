@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "title": "Bifum com Carne, Cebola, Moyashi e Cenoura",
+    "description": "lorem ipsum",
+    "price": "R$46,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 2,
+    "title": "Bifum Frito Três Delícias",
+    "description": "Preparado com carne, frango e camarão",
+    "price": "R$50,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 3,
+    "title": "He Fen",
+    "description": "Massa de arroz fresca com carne, cebola e moyashi",
+    "price": "R$54,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 4,
+    "title": "Lámen Caseiro Frito com Lombinho Picado e Moyashi",
+    "description": "Acompanha vinagre chinês e molho picante",
+    "price": "R$45,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 5,
+    "title": "Lámen Caseiro Frito com Lombinho Picado e Legumes",
+    "description": "lorem ipsum",
+    "price": "R$50,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 6,
+    "title": "Nian Gao",
+    "description": "Preparado com moyashi e shitake ao shoyu",
+    "price": "R$50,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 7,
+    "title": "Yakisoba de Carne com Repolho, Cebola e Moyashi",
+    "description": "lorem ipsum",
+    "price": "R$42,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 8,
+    "title": "Yakisoba de Frutos do Mar",
+    "description": "Preparado com Lula, Camarão e Kani",
+    "price": "R$50,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 9,
+    "title": "Yakisoba Misto com Carne, Frango e Linguiça",
+    "description": "lorem ipsum",
+    "price": "R$44,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 10,
+    "title": "Lámen Caseiro de Lombinho Sabor ao Mar",
+    "description": "lorem ipsum",
+    "price": "R$50,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 11,
+    "title": "Lámen Caseiro de Ovo e Tomate com Caldo",
+    "description": "lorem ipsum",
+    "price": "R$40,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 12,
+    "title": "Lámen Caseiro de Carne Bovina com Caldo",
+    "description": "lorem ipsum",
+    "price": "R$42,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 13,
+    "title": "Lámen Caseiro de Legumes com Caldo",
+    "description": "lorem ipsum",
+    "price": "R$40,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 14,
+    "title": "Lámen Caseiro de Costela Suína com Caldo",
+    "description": "lorem ipsum",
+    "price": "R$42,00",
+    "img": "https://placehold.jp/100x100.png"
+  }
+]

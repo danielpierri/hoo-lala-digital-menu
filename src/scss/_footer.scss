@@ -1,0 +1,58 @@
+.footer {
+  background: linear-gradient(#8b0000, #300000);
+  background-image: url(./../public/chinese-bg.jpg);
+  background-size: cover;
+  color: #fffc63;
+  display: flex;
+  justify-content: center;
+  font-family: "Blinker", sans-serif;
+  font-size: 1.25rem;
+  font-weight: 500;
+  text-shadow: 2px 2px 2px #000;
+  letter-spacing: 1.5px;
+  border-top: 5px groove #fffc63;
+
+
+  &__contact {
+    display: flex;
+    flex-direction: column;
+    gap: .25rem;
+    margin-block: 1rem;
+
+
+    & li {
+      margin-bottom: .5rem;
+    }
+
+    & li i {
+      margin-right: .25rem;
+    }
+  }
+
+  &__hours {
+    margin-bottom: .25rem;
+    font-weight: 300;
+    text-align: center;
+  }
+
+  &__social-media {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 1rem;
+    font-size: 1.625rem;
+  }
+}
+
+a {
+  color: #fffc63;
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+.signature {
+  padding-block: .75rem;
+}
