@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Carne Acebolada",
+    "description": "Acompanha arroz",
+    "price": "R$48,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 2,
+    "title": "Carne Frita ao Molho de Ostras",
+    "description": "Acompanha arroz",
+    "price": "R$48,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 3,
+    "title": "Carne Frita ao Molho Picante 🌶",
+    "description": "Acompanha arroz",
+    "price": "R$48,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 4,
+    "title": "Carne Frita com Pimentão Verde",
+    "description": "Acompanha arroz",
+    "price": "R$48,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 5,
+    "title": "Carne Frita com Curry",
+    "description": "Acompanha arroz",
+    "price": "R$49,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 6,
+    "title": "Frango ao Molho Picante 🌶",
+    "description": "Acompanha arroz",
+    "price": "R$48,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 7,
+    "title": "Frango ao Curry",
+    "description": "Acompanha arroz",
+    "price": "R$48,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 8,
+    "title": "Frango Frito com Pimentão Verde",
+    "description": "Acompanha arroz",
+    "price": "R$48,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 9,
+    "title": "Asinha de Frango Frita com Sal e Pimenta",
+    "description": "Acompanha arroz",
+    "price": "R$46,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 10,
+    "title": "Asinha de Frango ao Molho Coca-Cola",
+    "description": "Acompanha arroz",
+    "price": "R$48,00",
+    "img": "https://placehold.jp/100x100.png"
+  }
+]

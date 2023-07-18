@@ -1,0 +1,261 @@
+[
+  {
+    "id": 1,
+    "title": "Barriga de Porco ao Molho Shoyu",
+    "description": "Necessário preencher",
+    "price": "R$58,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 2,
+    "title": "Lombo Suíno ao Molho Especial Chinês 🌶",
+    "description": "Necessário preencher",
+    "price": "R$48,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 3,
+    "title": "Lombo Suíno Agridoce",
+    "description": "Necessário preencher",
+    "price": "R$48,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 4,
+    "title": "Costela de Porco Agridoce",
+    "description": "Necessário preencher",
+    "price": "R$48,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 5,
+    "title": "Costela de Porco com Sal e Pimenta",
+    "description": "Necessário preencher",
+    "price": "R$48,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 6,
+    "title": "Costela Suína ao Molho Especial Chinês",
+    "description": "Necessário preencher",
+    "price": "R$60,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 7,
+    "title": "Barriga Suína ao Molho Picante 🌶",
+    "description": "Necessário preencher",
+    "price": "R$48,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 8,
+    "title": "Barriga Suína com Verduras Secas em Conserva",
+    "description": "Necessário preencher",
+    "price": "R$60,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 9,
+    "title": "Tripa Suína Frita Com Verduras em Conserva",
+    "description": "Necessário preencher",
+    "price": "R$48,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 10,
+    "title": "Tripa Suína Frita ao Molho Shoyu 🌶",
+    "description": "Necessário preencher",
+    "price": "R$48,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 11,
+    "title": "Moela Apimentada 🌶",
+    "description": "Necessário preencher",
+    "price": "R$40,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 12,
+    "title": "Cordeiro ao Molho Especial",
+    "description": "Necessário preencher",
+    "price": "R$72,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 13,
+    "title": "Lula ao Molho Picante 🌶",
+    "description": "Necessário preencher",
+    "price": "R$60,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 14,
+    "title": "Lula Frita com Verduras em Conserva",
+    "description": "Necessário preencher",
+    "price": "R$60,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 15,
+    "title": "Pescadinha ao Molho Chinês",
+    "description": "Necessário preencher",
+    "price": "R$52,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 16,
+    "title": "Caldo de Filé de Peixe Especial 🌶",
+    "description": "Necessário preencher",
+    "price": "R$55,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 17,
+    "title": "Caldo de Filé de Peixe com Verduras em Conserva 🌶",
+    "description": "Necessário preencher",
+    "price": "R$55,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 18,
+    "title": "Beringela Frita Sabor ao Mar 🌶",
+    "description": "Necessário preencher",
+    "price": "R$38,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 19,
+    "title": "Família Feliz (Frango, Carne, Camarão e Verduras)",
+    "description": "Necessário preencher",
+    "price": "R$50,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 20,
+    "title": "Tofu Frito da Casa",
+    "description": "Necessário preencher",
+    "price": "R$40,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 21,
+    "title": "Tofu Frito ao Molho Picante Especial 🌶",
+    "description": "Necessário preencher",
+    "price": "R$39,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 22,
+    "title": "Bolinhos de Tofu com Frutos do Mar",
+    "description": "Necessário preencher",
+    "price": "R$52,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 23,
+    "title": "Peixe Espada Frito ao Molho da Casa",
+    "description": "Necessário preencher",
+    "price": "R$42,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 24,
+    "title": "Camarão Picante 🌶",
+    "description": "Necessário preencher",
+    "price": "R$60,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 25,
+    "title": "Brócolis Frito com Camarão",
+    "description": "Necessário preencher",
+    "price": "R$62,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 26,
+    "title": "Brócolis Frito com Carne",
+    "description": "Necessário preencher",
+    "price": "R$54,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 27,
+    "title": "Ensopado de Carne ao Molho Picante 🌶",
+    "description": "Necessário preencher",
+    "price": "R$52,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 28,
+    "title": "Carne na Chapa ao Estilo da Casa",
+    "description": "Necessário preencher",
+    "price": "R$58,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 29,
+    "title": "Polvo na Chapa ao Estilo da Casa",
+    "description": "Necessário preencher",
+    "price": "R$78,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 30,
+    "title": "Tilápia no Vapor ao Molho Chinês",
+    "description": "Necessário preencher",
+    "price": "PREENCHER",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 31,
+    "title": "Rã",
+    "description": "Necessário preencher",
+    "price": "R$88,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 32,
+    "title": "Pele de Porco Três Delícias",
+    "description": "Necessário preencher",
+    "price": "R$50,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 33,
+    "title": "Carne Fatiada com Aspargos",
+    "description": "Necessário preencher",
+    "price": "R$62,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 34,
+    "title": "Buchinho Bovino com Verduras Picantes 🌶",
+    "description": "Necessário preencher",
+    "price": "R$48,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 35,
+    "title": "Pimenta Verde com Tofu Seco",
+    "description": "Necessário preencher",
+    "price": "R$42,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 36,
+    "title": "Melãozinho com Carne",
+    "description": "Necessário preencher",
+    "price": "R$50,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 37,
+    "title": "Carne Sabor Cominho 🌶",
+    "description": "Necessário preencher",
+    "price": "R$50,00",
+    "img": "https://placehold.jp/100x100.png"
+  }
+]

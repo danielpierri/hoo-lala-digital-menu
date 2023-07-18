@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "title": "Sopa Agripicante 🌶",
+    "description": "Necessário preencher",
+    "price": "R$28,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 2,
+    "title": "Sopa de Tomate com Ovos",
+    "description": "Necessário preencher",
+    "price": "R$28,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 3,
+    "title": "Sopa de Frutos do Mar com Tofu",
+    "description": "Necessário preencher",
+    "price": "R$35,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 4,
+    "title": "Sopa Wonton",
+    "description": "Necessário preencher",
+    "price": "R$19,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 5,
+    "title": "Sopa de Algas com Ovos",
+    "description": "Necessário preencher",
+    "price": "R$28,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 6,
+    "title": "Sopa de Algas com Costela",
+    "description": "Necessário preencher",
+    "price": "R$35,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 7,
+    "title": "Sopa de Costela com Milho",
+    "description": "Necessário preencher",
+    "price": "R$35,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 8,
+    "title": "Sopa de Bucho de Peixe",
+    "description": "Necessário preencher",
+    "price": "R$48,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 9,
+    "title": "Sopa de Bucho de Peixe Grande",
+    "description": "Necessário preencher",
+    "price": "R$58,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 10,
+    "title": "Sopa de Wakame e Tofu",
+    "description": "Necessário preencher",
+    "price": "R$35,00",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 11,
+    "title": "Caldo de Carne Estilo Xihu",
+    "description": "Necessário preencher",
+    "price": "R$38,00",
+    "img": "https://placehold.jp/100x100.png"
+  }
+]
