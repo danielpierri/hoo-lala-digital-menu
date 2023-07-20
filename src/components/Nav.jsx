@@ -7,9 +7,21 @@ const Nav = () => {
       <div className="nav__wrapper">
 
         <div>
-          <img src={logo} alt="Hoo-Lala em chinês" className="nav__logo" />
-          <img src={chineseName} alt="Hoo-Lala em chinês" className="nav__chinese-title" />
+
+          <img 
+            src={logo}
+            alt="Hoo-Lala em chinês" 
+            className="nav__logo" 
+          />
+
+          <img
+            src={chineseName}
+            alt="Hoo-Lala em chinês"
+            className="nav__chinese-title"
+          />
+
         </div>
+
         <p className="nav__title">Hoo-Lala</p>
         <p className="nav__subtitle">Culinária Tradicional Chinesa</p>
 

@@ -34,7 +34,6 @@
   }
 
   &__title {
-    position: relative;
     cursor: pointer;
     background: linear-gradient(#4e0000, #8b0000, #4e0000);
     user-select: none;
@@ -42,7 +41,7 @@
     padding-top: 1.25rem;
     padding-bottom: 1rem;
     color: #fffc63;
-    font-size: 2.25rem;
+    font-size: 1.75rem;
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: black;
     text-shadow: 2px 2px 2px #000;
