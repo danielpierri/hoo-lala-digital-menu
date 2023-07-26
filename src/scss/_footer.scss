@@ -7,7 +7,7 @@
   justify-content: center;
   font-family: "Blinker", sans-serif;
   font-size: 1.25rem;
-  font-weight: 500;
+  font-weight: 300;
   text-shadow: 2px 2px 2px #000;
   letter-spacing: 1.5px;
   border-top: 5px groove #FFFC63;
@@ -57,6 +57,7 @@
   }
 
   &__hours {
+    margin-block: .25rem;
     font-weight: 300;
     text-align: center;
   }
@@ -99,4 +100,44 @@ li {
   & a:hover {
     color: #FFF;
   }
+}
+
+// DESKTOP
+@media (min-width: 45em) {
+  .footer {
+    font-size: 1.5rem;
+    letter-spacing: 2px;
+
+    &__contact {
+      gap: .5rem;
+      margin-top: 1.25rem;
+      margin-bottom: .75rem;
+  
+  
+      & li {
+        margin-bottom: .25rem;
+      }
+    }
+  
+    &__hours {
+      margin-block: .5rem;
+    }
+  
+    &__social-media {
+      gap: 2rem;
+      margin-top: 1rem;
+      font-size: 2rem;
+    }
+  }
+  
+  a {
+    text-align: center;
+    color: #FFFC63;
+    text-decoration: none;
+  }
+  
+  .signature {
+    padding-block: .5rem;
+  }
+  
 }
