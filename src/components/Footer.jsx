@@ -16,7 +16,7 @@ const Footer = () => {
           </li>
 
           <li>
-            <i className="fa-solid fa-location-dot"></i>
+            <i className="fa-solid fa-location-dot phone"></i>
             <a href="https://goo.gl/maps/7UwUJ6wSuzTsiL916" target="_blank" rel="noreferrer">Avenida Passos, 71</a>
           </li>
 
@@ -48,9 +48,7 @@ const Footer = () => {
         </ul>
 
         <p className="signature">
-          Desenvolvido por 
-          <a href="https://github.com/danielpierri" target="_blank" rel="noreferrer">
-            Daniel Pierri <i className="fa-brands fa-github"></i>
+          Desenvolvido por <a href="https://github.com/danielpierri" target="_blank" rel="noreferrer"> Daniel Pierri <i className="fa-brands fa-github"></i>
           </a>
         </p>
 

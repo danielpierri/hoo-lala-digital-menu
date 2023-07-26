@@ -1,5 +1,5 @@
 .main {
-  background-color: darkred;
+  background-color: #8B0000;
   background-image: url(./../public/dragon-bg-2.jpg);
   background-position: center;
   background-size: contain;
@@ -7,7 +7,7 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  height: 100vh;
+  height: 100svh;
 }
 
 .section {
@@ -24,7 +24,7 @@
 
   &__sticky-top {
     position: relative;
-    border-bottom: 5px groove #fffc63;
+    border-bottom: 5px groove #FFFC63;
   }
 
   &--sticky {
@@ -35,12 +35,12 @@
 
   &__title {
     cursor: pointer;
-    background: linear-gradient(#4e0000, #8b0000, #4e0000);
+    background: linear-gradient(#4E0000, #8B0000, #4E0000);
     user-select: none;
     padding-inline: 1.25rem;
     padding-top: 1.25rem;
     padding-bottom: 1rem;
-    color: #fffc63;
+    color: #FFFC63;
     font-size: 1.75rem;
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: black;
@@ -85,14 +85,35 @@
   }
 
   &__container {
+    position: relative;
     display: flex;
     justify-content: space-between;
-    padding: 1.25rem;
+    padding-inline: 1.25rem;
+    padding-block: 1.75rem;
     gap: 2rem;
+
+    &::after {
+      content: "";
+      background: linear-gradient(to right, transparent, #FFFC63, transparent);
+      height: 1px;
+      width: 80%;
+      margin-left: auto;
+      margin-right: auto;
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 0;
+  }
+  }
+  
+  &__container > div {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
   }
 
   &__title {
-    color: #fffc63;
+    color: #FFFC63;
     text-shadow: 2px 2px 2px #000;
     font-size: 1.65rem;
     font-weight: 700;
@@ -110,7 +131,7 @@
   }
 
   &__price {
-    color: #fffc63;
+    color: #FFFC63;
     text-shadow: 2px 2px 2px #000;
     font-size: 1.75rem;
     letter-spacing: 1.5px;
@@ -121,65 +142,12 @@
   }
 }
 
-// MOBILE
-@media (max-width: 400px) {
-  .main {
-    height: 100svh;
-  }
- 
-  .section {
-
-    &__wrapper {
-    }
-  
-    &__sticky-top {
-      // position: relative;
-    }
-
-    &__title {
-
-      & i {
-
-      }
-
-      & .expanded {
-
-      }
-
-      & .collapsed {
-
-      }
-    }
-
-    &--sticky {
-
-    }
-  }
-  
-  .food {
-  
-    &__container {
-
-    }
-  
-    &__title {
-    }
-  
-    &__desc {
-
-    }
-  
-    &__price {
-    }
-  
-    &__img {
-  
-    }
-  }
-}
-
 // DESKTOP
-@media (min-width: 60em) {
+@media (min-width: 45em) {
+  .main {
+    height: 100vh;
+  }
+
   .section {
   
     &__wrapper {
@@ -187,30 +155,56 @@
     }
   
     &__title {
-      
+      padding-inline: 1.25rem;
+      padding-top: 1.75rem;
+      padding-bottom: 1.5rem;
+      font-size: 2.25rem;
+      text-align: center;
     }
   }
   
   .food {
   
     &__container {
+      position: relative;
       display: flex;
+      max-width: 100em;
+      margin-inline: auto;
+      padding-block: 5rem;
+
+        &::after {
+          content: "";
+          background: linear-gradient(to right, transparent, #FFFC63, transparent);
+          height: 1px;
+          width: 80%;
+          margin-left: auto;
+          margin-right: auto;
+          position: absolute;
+          left: 0;
+          right: 0;
+          bottom: 0;
+      }
     }
   
     &__title {
-  
+      font-size: 2.5rem;
+      font-weight: 700;
+      letter-spacing: 2px;
     }
   
     &__desc {
-  
+      font-size: 2.25rem;
+      font-weight: 300;
+      letter-spacing: 1.5px;
     }
   
     &__price {
-  
+      font-size: 2.5rem;
+    letter-spacing: 1.5px;
     }
   
     &__img {
-  
+      height: 150px;
     }
   }
 }

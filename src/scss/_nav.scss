@@ -1,10 +1,11 @@
 .nav {
   font-family: 'Blinker', sans-serif;
-  background: linear-gradient(#300000, #8b0000);
-  // background-color: #8b0000;
+  background: linear-gradient(#300000, #8B0000);
+  // background-color: #8B0000;
   background-image: url(./../public/chinese-bg.jpg);
   background-size: cover;
-  border-bottom: 5px groove #fffc63;
+  border-top: 5px groove #FFFC63;
+  border-bottom: 5px groove #FFFC63;
   text-align: center;
 
   &__wrapper {
@@ -32,7 +33,7 @@
 
   &__title {
     padding-top: .25rem;
-    color: #fffc63;
+    color: #FFFC63;
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: rgba(0, 0, 0, .7);
     text-shadow: 2px 3px 1px #000;
@@ -45,9 +46,9 @@
   
   &__subtitle {
     padding-bottom: 1rem;
-    color: #fffc63;
+    color: #FFFC63;
     -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-color: #000;
     text-shadow: 2px 2px 2px #000;
     text-transform: uppercase;
     font-size: 1.5rem;
