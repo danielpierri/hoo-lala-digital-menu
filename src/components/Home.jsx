@@ -1,11 +1,10 @@
 import { useEffect, useState } from "react"
-import CircleLoader from "react-spinners/CircleLoader"
 import { motion } from "framer-motion"
+import CircleLoader from "react-spinners/CircleLoader"
 import useFetch from "../hooks/useFetch"
 import useToggle from "../hooks/useToggle"
 import Nav from "./Nav"
 import Menu from "./Menu"
-import Footer from "./Footer"
 import hooLalaPratosPrincipais from "../assets/hoo-lala-pratos-principais.json"
 import hooLalaCarnesEFrangos from "../assets/hoo-lala-carnes-e-frangos.json"
 import hooLalaComidasDaCasa from "../assets/hoo-lala-comidas-da-casa.json"
@@ -93,17 +92,6 @@ const Home = () => {
               </section>
 
             </div>
-
-
-          </motion.div>
-
-          <motion.div 
-            variants={animation}
-            initial="initial"
-            animate="final"
-            className="hero"
-          >
-            <Footer />
           </motion.div>
         </>
       )}

@@ -10,7 +10,6 @@
   font-weight: 300;
   text-shadow: 2px 2px 2px #000;
   letter-spacing: 1.5px;
-  border-top: 5px groove #FFFC63;
   border-bottom: 5px groove #FFFC63;
 
   &__contact {
@@ -23,7 +22,7 @@
 
     & li {
       display: flex;
-      margin-bottom: .25rem;
+      margin-bottom: .1rem;
     }
 
     
@@ -65,7 +64,7 @@
   &__social-media {
     display: flex;
     justify-content: center;
-    gap: 1rem;
+    gap: 2rem;
     margin-top: .5rem;
     font-size: 1.625rem;
 
@@ -91,7 +90,7 @@ li {
 }
 
 .signature {
-  padding-block: .25rem;
+  padding-block: .1rem;
 
   & a {
     transition: color .25s;
