@@ -1,3 +1,4 @@
+import { useEffect, useState } from "react"
 import useFetch from "../hooks/useFetch"
 import useToggle from "../hooks/useToggle"
 import Nav from "./Nav"
@@ -27,35 +28,53 @@ const Home = () => {
   const [showPratosFrios, setShowPratosFrios] = useToggle()
   const [showSopasECaldos, setShowSopasECaldos] = useToggle()
 
+  const [loading, setLoading] = useState(false)
+  useEffect(() => {
+    setLoading(true);
+    setTimeout(() => {
+      setLoading(false);
+    }, 2000);
+  }, []);
+
   return (
     <main className="main">
-      <div>
+      {loading ? (
+        <div className="loader__container">
+          <div className="spinner"></div>
+        </div>
+      ) : (
+        <>
+          <div>
 
-        <Nav />
+            <Nav />
 
-        <section className="section">
+            <section className="section">
 
-          <div className="section__wrapper">
+              <div className="section__wrapper">
 
-              <Menu menu={pratosPrincipais} menuTitle={"Pratos Principais"} showMenu={showPratosPrincipais} toggleMenu={setShowPratosPrincipais} />
+                <Menu menu={pratosPrincipais} menuTitle={"Pratos Principais"} showMenu={showPratosPrincipais} toggleMenu={setShowPratosPrincipais} />
 
-              <Menu menu={carnesEFrangos} menuTitle={"Carnes e Frangos"} showMenu={showCarnesEFrangos} toggleMenu={setShowCarnesEFrangos} />
+                <Menu menu={carnesEFrangos} menuTitle={"Carnes e Frangos"} showMenu={showCarnesEFrangos} toggleMenu={setShowCarnesEFrangos} />
 
-              <Menu menu={comidasDaCasa} menuTitle={"Comidas da Casa"} showMenu={showComidasDaCasa} toggleMenu={setShowComidasDaCasa} />
+                <Menu menu={comidasDaCasa} menuTitle={"Comidas da Casa"} showMenu={showComidasDaCasa} toggleMenu={setShowComidasDaCasa} />
 
-              <Menu menu={massasEArroz} menuTitle={"Massas e Arroz"} showMenu={showMassasEArroz} toggleMenu={setShowMassasEArroz} />
+                <Menu menu={massasEArroz} menuTitle={"Massas e Arroz"} showMenu={showMassasEArroz} toggleMenu={setShowMassasEArroz} />
 
-              <Menu menu={pratosFrios} menuTitle={"Pratos Frios"} showMenu={showPratosFrios} toggleMenu={setShowPratosFrios} />
+                <Menu menu={pratosFrios} menuTitle={"Pratos Frios"} showMenu={showPratosFrios} toggleMenu={setShowPratosFrios} />
 
-              <Menu menu={sopasECaldos} menuTitle={"Sopas e Caldos"} showMenu={showSopasECaldos} toggleMenu={setShowSopasECaldos} />
+                <Menu menu={sopasECaldos} menuTitle={"Sopas e Caldos"} showMenu={showSopasECaldos} toggleMenu={setShowSopasECaldos} />
+
+              </div>
+
+            </section>
 
           </div>
+          
+          <Footer />
+        
+        </>
 
-        </section>
-
-      </div>
-
-      <Footer />
+      )}
 
     </main>
   )

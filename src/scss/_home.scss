@@ -19,9 +19,6 @@
   font-family: 'Blinker', sans-serif;
   position: relative;
 
-  &__wrapper {
-  }
-
   &__sticky-top {
     position: relative;
     border-bottom: 5px groove #FFFC63;
@@ -136,10 +133,6 @@
     font-size: 1.75rem;
     letter-spacing: 1.5px;
   }
-
-  &__img {
-
-  }
 }
 
 // DESKTOP
@@ -204,9 +197,3 @@
     }
   }
 }
-
-// TABLET
-@media (max-width: 100em) {
-  
-}
-
