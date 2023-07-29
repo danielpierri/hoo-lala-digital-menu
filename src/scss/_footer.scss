@@ -10,8 +10,8 @@
   font-weight: 300;
   text-shadow: 2px 2px 2px #000;
   letter-spacing: 1.5px;
-  border-top: 5px groove #FFFC63;
-  border-bottom: 5px groove #FFFC63;
+  border-top: 5px solid #FFFC63;
+  border-bottom: 5px solid #FFFC63;
 
   &__contact {
     display: flex;
@@ -38,9 +38,13 @@
       margin-right: .25rem;
     }
     
-    & li .phone {
+    & li .address-icon {
       width: 15px;
-      padding-left: .25rem;
+      padding-left: .4rem;
+    }
+
+    & li .address-text {
+      padding-left: .75rem;
     }
 
     & li,

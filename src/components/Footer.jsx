@@ -16,8 +16,8 @@ const Footer = () => {
           </li>
 
           <li>
-            <i className="fa-solid fa-location-dot phone"></i>
-            <a href="https://goo.gl/maps/7UwUJ6wSuzTsiL916" target="_blank" rel="noreferrer">Avenida Passos, 71</a>
+            <i className="fa-solid fa-location-dot address-icon"></i>
+            <a href="https://goo.gl/maps/7UwUJ6wSuzTsiL916" target="_blank" rel="noreferrer" className="address-text">Avenida Passos, 71</a>
           </li>
 
         </ul>
