@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react"
+import CircleLoader from "react-spinners/CircleLoader"
 import useFetch from "../hooks/useFetch"
 import useToggle from "../hooks/useToggle"
 import Nav from "./Nav"
@@ -28,6 +29,7 @@ const Home = () => {
   const [showPratosFrios, setShowPratosFrios] = useToggle()
   const [showSopasECaldos, setShowSopasECaldos] = useToggle()
 
+  // Loading Screen
   const [loading, setLoading] = useState(false)
   useEffect(() => {
     setLoading(true);
@@ -40,7 +42,7 @@ const Home = () => {
     <main className="main">
       {loading ? (
         <div className="loader__container">
-          <div className="spinner"></div>
+          <CircleLoader color={`#FFFC63`} size={50} />
         </div>
       ) : (
         <>

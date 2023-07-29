@@ -10,6 +10,14 @@
   height: 100svh;
 }
 
+.loader__container {
+  outline: 1px solid pink;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .section {
   background-color: #777;
   background-image: url(./../public/chinese-bg.jpg);
