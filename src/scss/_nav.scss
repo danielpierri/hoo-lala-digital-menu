@@ -53,3 +53,16 @@
     letter-spacing: 1.5px;
   }
 }
+
+@media (min-width: 45em) {
+  .nav {
+    &__title {
+      font-size: 7.5rem;
+    }
+
+    &__subtitle {
+      font-size: 3rem;
+      letter-spacing: 3px;
+    }
+  }
+}
