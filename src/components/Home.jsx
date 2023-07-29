@@ -36,7 +36,7 @@ const Home = () => {
     setLoading(true);
     setTimeout(() => {
       setLoading(false);
-    }, 1500);
+    }, 2000);
   }, []);
 
   // Animation
@@ -97,7 +97,14 @@ const Home = () => {
 
           </motion.div>
 
-          <Footer />
+          <motion.div 
+            variants={animation}
+            initial="initial"
+            animate="final"
+            className="hero"
+          >
+            <Footer />
+          </motion.div>
         </>
       )}
 
