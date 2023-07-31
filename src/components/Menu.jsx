@@ -20,7 +20,7 @@ const Menu = ({ menu, menuTitle, showMenu, toggleMenu }) => {
                 <div key={food.id} className="food__container">
                   <div>
                     <h3 className="food__title">{food.title}</h3>
-                    <p className="food__desc">{food.description}</p>
+                    {/* <p className="food__desc">{food.description}</p> */}
                     <p className="food__price">{food.price}</p>
                   </div>
                   <div>

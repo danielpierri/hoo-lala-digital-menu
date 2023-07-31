@@ -2,35 +2,35 @@
   {
     "id": 1,
     "title": "Salada de Alga Marinha",
-    "description": "Necessário preencher",
+    "description": "",
     "price": "R$30,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 2,
     "title": "Salada de Pé de Galinha",
-    "description": "Necessário preencher",
+    "description": "",
     "price": "R$30,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 3,
     "title": "Salada de Tofu com Ovos em Conserva",
-    "description": "Necessário preencher",
+    "description": "",
     "price": "R$38,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 4,
     "title": "Salada de Pepino Japonês",
-    "description": "Necessário preencher",
+    "description": "",
     "price": "R$25,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 5,
     "title": "Salada de Alga Japonesa",
-    "description": "Necessário preencher",
+    "description": "",
     "price": "R$38,00",
     "img": "https://placehold.jp/100x100.png"
   }

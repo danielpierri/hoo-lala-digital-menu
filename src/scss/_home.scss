@@ -29,7 +29,7 @@
 
   &__sticky-top {
     position: relative;
-    border-bottom: 5px groove #FFFC63;
+    border-bottom: 5px solid #FFFC63;
   }
 
   &--sticky {
@@ -114,7 +114,8 @@
   &__container > div {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    // Se tiver descrição, colocar space-between.
+    justify-content: space-around;
   }
 
   &__title {
