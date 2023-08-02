@@ -57,3 +57,22 @@ html {
 ::-webkit-scrollbar-thumb:hover {
   background: #FFFD88;
 }
+
+.app {
+  background-color: #8B0000;
+  background-image: url(./../public/hoo-lala-vector-2.png);
+  background-position: center;
+  // background-size: contain;
+  // background-repeat: repeat;
+  background-blend-mode: multiply;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+// @media (min-width: 45em) {
+//   .app {
+//     height: 100vh;
+//   }
+// }

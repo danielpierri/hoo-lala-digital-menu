@@ -1,6 +1,4 @@
-import { useEffect, useState } from "react"
 import { motion } from "framer-motion"
-import CircleLoader from "react-spinners/CircleLoader"
 import useFetch from "../hooks/useFetch"
 import useToggle from "../hooks/useToggle"
 import Nav from "./Nav"
@@ -35,15 +33,6 @@ const Home = () => {
   const [showSopasECaldos, setShowSopasECaldos] = useToggle()
   const [showBebidas, setShowBebidas] = useToggle()
 
-  // Loading Screen
-  const [loading, setLoading] = useState(false)
-  useEffect(() => {
-    setLoading(true);
-    setTimeout(() => {
-      setLoading(false);
-    }, 2000);
-  }, []);
-
   // Animation
   const animation = {
     initial: {
@@ -61,51 +50,44 @@ const Home = () => {
 
   return (
     <main className="main">
-      {loading ? (
-        <div className="loader__container">
-          <CircleLoader color={`#FFFC63`} size={50} aria-label="Loading Spinner" />
-        </div>
-      ) : (
-        <>
-          <motion.div 
-            variants={animation}
-            initial="initial"
-            animate="final"
-            className="hero"
-          >
-            <div>
+      <motion.div 
+        variants={animation}
+        initial="initial"
+        animate="final"
+        className="hero"
+      >
+        <div>
 
-              <Nav />
+          <Nav />
 
-              <section className="section">
+          <section className="section">
 
-                <div className="section__wrapper">
+            <div className="section__wrapper">
 
-                  <Menu menu={pratosPrincipais} menuTitle={"Pratos Principais"} showMenu={showPratosPrincipais} toggleMenu={setShowPratosPrincipais} />
+              <Menu menu={pratosPrincipais} menuTitle={"Pratos Principais"} showMenu={showPratosPrincipais} toggleMenu={setShowPratosPrincipais} />
 
-                  <Menu menu={pratosExecutivos} menuTitle={"Pratos Executivos"} showMenu={showPratosExecutivos} toggleMenu={setShowPratosExecutivos} />
+              <Menu menu={pratosExecutivos} menuTitle={"Pratos Executivos"} showMenu={showPratosExecutivos} toggleMenu={setShowPratosExecutivos} />
 
-                  <Menu menu={carnesEFrangos} menuTitle={"Carnes e Frangos"} showMenu={showCarnesEFrangos} toggleMenu={setShowCarnesEFrangos} />
+              <Menu menu={carnesEFrangos} menuTitle={"Carnes e Frangos"} showMenu={showCarnesEFrangos} toggleMenu={setShowCarnesEFrangos} />
 
-                  <Menu menu={comidasDaCasa} menuTitle={"Comidas da Casa"} showMenu={showComidasDaCasa} toggleMenu={setShowComidasDaCasa} />
+              <Menu menu={comidasDaCasa} menuTitle={"Comidas da Casa"} showMenu={showComidasDaCasa} toggleMenu={setShowComidasDaCasa} />
 
-                  <Menu menu={massasEArroz} menuTitle={"Massas e Arroz"} showMenu={showMassasEArroz} toggleMenu={setShowMassasEArroz} />
+              <Menu menu={massasEArroz} menuTitle={"Massas e Arroz"} showMenu={showMassasEArroz} toggleMenu={setShowMassasEArroz} />
 
-                  <Menu menu={pratosFrios} menuTitle={"Pratos Frios"} showMenu={showPratosFrios} toggleMenu={setShowPratosFrios} />
+              <Menu menu={pratosFrios} menuTitle={"Pratos Frios"} showMenu={showPratosFrios} toggleMenu={setShowPratosFrios} />
 
-                  <Menu menu={sopasECaldos} menuTitle={"Sopas e Caldos"} showMenu={showSopasECaldos} toggleMenu={setShowSopasECaldos} />
+              <Menu menu={sopasECaldos} menuTitle={"Sopas e Caldos"} showMenu={showSopasECaldos} toggleMenu={setShowSopasECaldos} />
 
-                  <Menu menu={bebidas} menuTitle={"Bebidas"} showMenu={showBebidas} toggleMenu={setShowBebidas} />
+              <Menu menu={bebidas} menuTitle={"Bebidas"} showMenu={showBebidas} toggleMenu={setShowBebidas} />
 
-                </div>
-
-              </section>
+              <Menu menu={bebidas} menuTitle={"Bubbles"} showMenu={showBebidas} toggleMenu={setShowBebidas} />
 
             </div>
-          </motion.div>
-        </>
-      )}
 
+          </section>
+
+        </div>
+      </motion.div>
     </main>
   )
 }
