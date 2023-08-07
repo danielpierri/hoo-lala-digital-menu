@@ -80,8 +80,6 @@ const Home = () => {
 
               <Menu menu={bebidas} menuTitle={"Bebidas"} showMenu={showBebidas} toggleMenu={setShowBebidas} />
 
-              <Menu menu={bebidas} menuTitle={"Bubbles"} showMenu={showBebidas} toggleMenu={setShowBebidas} />
-
             </div>
 
           </section>
