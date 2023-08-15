@@ -1,70 +1,80 @@
 [
   {
     "id": 1,
-    "title": "洋葱牛肉 • Carne Acebolada",
+    "title": "Carne Acebolada",
+    "chinese_title": "洋葱牛肉",
     "description": "",
     "price": "R$48,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 2,
-    "title": "蚝油牛肉 • Carne Frita ao Molho de Ostras",
+    "title": "Carne Frita ao Molho de Ostras",
+    "chinese_title": "蚝油牛肉",
     "description": "",
     "price": "R$48,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 3,
-    "title": "辣子牛肉 • Carne Frita ao Molho Picante 🌶",
+    "title": "Carne Frita ao Molho Picante 🌶",
+    "chinese_title": "辣子牛肉",
     "description": "",
     "price": "R$48,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 4,
-    "title": "青椒牛肉 • Carne Frita com Pimentão Verde",
+    "title": "Carne Frita com Pimentão Verde",
+    "chinese_title": "青椒牛肉",
     "description": "",
     "price": "R$48,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 5,
-    "title": "咖哩牛肉 • Carne Frita com Curry",
+    "title": "Carne Frita com Curry",
+    "chinese_title": "咖哩牛肉",
     "description": "",
     "price": "R$49,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 6,
-    "title": "宫宝鸡丁 • Frango ao Molho Picante 🌶",
+    "title": "Frango ao Molho Picante 🌶",
+    "chinese_title": "宫宝鸡丁",
     "description": "",
     "price": "R$48,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 7,
-    "title": "咖喱鸡 • Frango ao Curry",
+    "title": "Frango ao Curry",
+    "chinese_title": "咖喱鸡",
     "description": "",
     "price": "R$48,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 8,
-    "title": "青椒鸡片 • Frango Frito com Pimentão Verde",
+    "title": "Frango Frito com Pimentão Verde",
+    "chinese_title": "青椒鸡片",
     "description": "",
     "price": "R$48,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 9,
-    "title": "椒盐鸡翅 • Asinha de Frango Frita com Sal e Pimenta",
+    "title": "Asinha de Frango Frita com Sal e Pimenta",
+    "chinese_title": "椒盐鸡翅",
     "description": "",
     "price": "R$46,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 10,
-    "title": "可乐鸡翅 • Asinha de Frango ao Molho Coca-Cola",
+    "title": "Asinha de Frango ao Molho Coca-Cola",
+    "chinese_title": "可乐鸡翅",
     "description": "",
     "price": "R$48,00",
     "img": "https://placehold.jp/100x100.png"
