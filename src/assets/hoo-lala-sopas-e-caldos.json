@@ -2,6 +2,7 @@
   {
     "id": 1,
     "title": "Sopa Agripicante 🌶",
+    "chinese_title": "酸辣汤",
     "description": "",
     "price": "R$28,00",
     "img": "https://placehold.jp/100x100.png"
@@ -9,6 +10,7 @@
   {
     "id": 2,
     "title": "Sopa de Tomate com Ovos",
+    "chinese_title": "西红柿鸡蛋汤",
     "description": "",
     "price": "R$28,00",
     "img": "https://placehold.jp/100x100.png"
@@ -16,6 +18,7 @@
   {
     "id": 3,
     "title": "Sopa de Frutos do Mar com Tofu",
+    "chinese_title": "海鲜豆腐汤",
     "description": "",
     "price": "R$35,00",
     "img": "https://placehold.jp/100x100.png"
@@ -23,6 +26,7 @@
   {
     "id": 4,
     "title": "Sopa Wonton",
+    "chinese_title": "馄饨汤",
     "description": "",
     "price": "R$19,00",
     "img": "https://placehold.jp/100x100.png"
@@ -30,6 +34,7 @@
   {
     "id": 5,
     "title": "Sopa de Algas com Ovos",
+    "chinese_title": "紫菜蛋花汤",
     "description": "",
     "price": "R$28,00",
     "img": "https://placehold.jp/100x100.png"
@@ -37,6 +42,7 @@
   {
     "id": 6,
     "title": "Sopa de Algas com Costela",
+    "chinese_title": "海带排骨汤",
     "description": "",
     "price": "R$35,00",
     "img": "https://placehold.jp/100x100.png"
@@ -44,6 +50,7 @@
   {
     "id": 7,
     "title": "Sopa de Costela com Milho",
+    "chinese_title": "排骨玉米汤",
     "description": "",
     "price": "R$35,00",
     "img": "https://placehold.jp/100x100.png"
@@ -51,6 +58,7 @@
   {
     "id": 8,
     "title": "Sopa de Bucho de Peixe",
+    "chinese_title": "鱼肚汤 (小)",
     "description": "",
     "price": "R$48,00",
     "img": "https://placehold.jp/100x100.png"
@@ -58,6 +66,7 @@
   {
     "id": 9,
     "title": "Sopa de Bucho de Peixe Grande",
+    "chinese_title": "鱼肚汤 (大)",
     "description": "",
     "price": "R$58,00",
     "img": "https://placehold.jp/100x100.png"
@@ -65,6 +74,7 @@
   {
     "id": 10,
     "title": "Sopa de Wakame e Tofu",
+    "chinese_title": "裙带菜豆腐汤",
     "description": "",
     "price": "R$35,00",
     "img": "https://placehold.jp/100x100.png"
@@ -72,6 +82,7 @@
   {
     "id": 11,
     "title": "Caldo de Carne Estilo Xihu",
+    "chinese_title": "西湖牛肉羹",
     "description": "",
     "price": "R$38,00",
     "img": "https://placehold.jp/100x100.png"

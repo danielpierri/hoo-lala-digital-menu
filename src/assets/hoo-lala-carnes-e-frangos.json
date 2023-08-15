@@ -1,70 +1,70 @@
 [
   {
     "id": 1,
-    "title": "Carne Acebolada",
+    "title": "洋葱牛肉 • Carne Acebolada",
     "description": "",
     "price": "R$48,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 2,
-    "title": "Carne Frita ao Molho de Ostras",
+    "title": "蚝油牛肉 • Carne Frita ao Molho de Ostras",
     "description": "",
     "price": "R$48,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 3,
-    "title": "Carne Frita ao Molho Picante 🌶",
+    "title": "辣子牛肉 • Carne Frita ao Molho Picante 🌶",
     "description": "",
     "price": "R$48,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 4,
-    "title": "Carne Frita com Pimentão Verde",
+    "title": "青椒牛肉 • Carne Frita com Pimentão Verde",
     "description": "",
     "price": "R$48,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 5,
-    "title": "Carne Frita com Curry",
+    "title": "咖哩牛肉 • Carne Frita com Curry",
     "description": "",
     "price": "R$49,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 6,
-    "title": "Frango ao Molho Picante 🌶",
+    "title": "宫宝鸡丁 • Frango ao Molho Picante 🌶",
     "description": "",
     "price": "R$48,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 7,
-    "title": "Frango ao Curry",
+    "title": "咖喱鸡 • Frango ao Curry",
     "description": "",
     "price": "R$48,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 8,
-    "title": "Frango Frito com Pimentão Verde",
+    "title": "青椒鸡片 • Frango Frito com Pimentão Verde",
     "description": "",
     "price": "R$48,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 9,
-    "title": "Asinha de Frango Frita com Sal e Pimenta",
+    "title": "椒盐鸡翅 • Asinha de Frango Frita com Sal e Pimenta",
     "description": "",
     "price": "R$46,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 10,
-    "title": "Asinha de Frango ao Molho Coca-Cola",
+    "title": "可乐鸡翅 • Asinha de Frango ao Molho Coca-Cola",
     "description": "",
     "price": "R$48,00",
     "img": "https://placehold.jp/100x100.png"

@@ -37,9 +37,6 @@ function App() {
         </div>
       ) : (
         <>
-          <Routes>
-            <Route path="/" element={ <Home /> } />
-          </Routes>
 
           <motion.div
           variants={animation}
@@ -47,6 +44,9 @@ function App() {
           animate="final"
           className="hero"
           >
+            <Routes>
+              <Route path="/" element={ <Home /> } />
+            </Routes>
             <Footer />
           </motion.div>
         </>

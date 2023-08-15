@@ -20,12 +20,14 @@ const Menu = ({ menu, menuTitle, showMenu, toggleMenu }) => {
                 <div key={food.id} className="food__container">
                   <div>
                     <h3 className="food__title">{food.title}</h3>
+                    <h3 className="food__title food__title--chinese">{food.chinese_title}</h3>
                     {/* <p className="food__desc">{food.description}</p> */}
                     <p className="food__price">{food.price}</p>
                   </div>
-                  <div>
+                  {/* No futuro, o cardápio terá fotografias. */}
+                  {/* <div>
                     <img src={food.img} alt={food.description} className="food__img" />
-                  </div>
+                  </div> */}
                 </div>
               )
             })}

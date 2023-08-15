@@ -2,6 +2,7 @@
   {
     "id": 1,
     "title": "Guioza Frito ou Cozido",
+    "chinese_title": "煎饺/水饺",
     "description": "",
     "price": "R$25,00",
     "img": "https://placehold.jp/100x100.png"
@@ -9,6 +10,7 @@
   {
     "id": 2,
     "title": "Lámen Caseiro (Tomate e Ovos/Carne/Costela de Porco)",
+    "chinese_title": "手擀面 (西红柿鸡蛋/牛肉/排骨)",
     "description": "",
     "price": "R$28,00",
     "img": "https://placehold.jp/100x100.png"
@@ -16,6 +18,7 @@
   {
     "id": 3,
     "title": "Lámen Caseiro Frito",
+    "chinese_title": "干炒手擀面",
     "description": "",
     "price": "R$32,00",
     "img": "https://placehold.jp/100x100.png"
@@ -23,6 +26,7 @@
   {
     "id": 4,
     "title": "Lámen Frito Especial ao Estilo da Casa",
+    "chinese_title": "本店特色拌面",
     "description": "",
     "price": "R$30,00",
     "img": "https://placehold.jp/100x100.png"
@@ -30,6 +34,7 @@
   {
     "id": 5,
     "title": "Lámen da Casa",
+    "chinese_title": "本店手擀面",
     "description": "",
     "price": "R$30,00",
     "img": "https://placehold.jp/100x100.png"
@@ -37,6 +42,7 @@
   {
     "id": 6,
     "title": "Lámen de Cordeiro",
+    "chinese_title": "红烧羊肉/羊杂手擀面",
     "description": "",
     "price": "R$38,00",
     "img": "https://placehold.jp/100x100.png"
@@ -44,6 +50,7 @@
   {
     "id": 7,
     "title": "Massa Branca de Arroz Frito",
+    "chinese_title": "炒年糕",
     "description": "",
     "price": "R$30,00",
     "img": "https://placehold.jp/100x100.png"
@@ -51,6 +58,7 @@
   {
     "id": 8,
     "title": "Macarrão de Arroz Frito",
+    "chinese_title": "干炒米粉",
     "description": "",
     "price": "R$30,00",
     "img": "https://placehold.jp/100x100.png"
@@ -58,6 +66,7 @@
   {
     "id": 9,
     "title": "Macarrão de Arroz Frito com Carne",
+    "chinese_title": "干炒牛河",
     "description": "",
     "price": "R$36,00",
     "img": "https://placehold.jp/100x100.png"
@@ -65,6 +74,7 @@
   {
     "id": 10,
     "title": "Yakisoba de Frutos do Mar",
+    "chinese_title": "海鲜炒面",
     "description": "",
     "price": "R$34,00",
     "img": "https://placehold.jp/100x100.png"
@@ -72,6 +82,7 @@
   {
     "id": 11,
     "title": "Yakisoba de Carne/Frango/Misto",
+    "chinese_title": "炒面 (牛肉/鸡肉/什锦)",
     "description": "",
     "price": "R$28,00",
     "img": "https://placehold.jp/100x100.png"
@@ -79,6 +90,7 @@
   {
     "id": 12,
     "title": "Arroz Frito Três Delícias",
+    "chinese_title": "三鲜炒饭",
     "description": "",
     "price": "R$28,00",
     "img": "https://placehold.jp/100x100.png"
@@ -86,6 +98,7 @@
   {
     "id": 13,
     "title": "Arroz Frito com Carne",
+    "chinese_title": "牛肉炒饭",
     "description": "",
     "price": "R$28,00",
     "img": "https://placehold.jp/100x100.png"
@@ -93,6 +106,7 @@
   {
     "id": 14,
     "title": "Arroz Frito ao Estilo Yangzhou",
+    "chinese_title": "杨州炒饭",
     "description": "",
     "price": "R$28,00",
     "img": "https://placehold.jp/100x100.png"
@@ -100,6 +114,7 @@
   {
     "id": 15,
     "title": "Arroz Frito com Verduras Secas",
+    "chinese_title": "梅干菜炒饭",
     "description": "",
     "price": "R$28,00",
     "img": "https://placehold.jp/100x100.png"
@@ -107,6 +122,7 @@
   {
     "id": 16,
     "title": "Arroz Frito com Lombo Suíno e Vagem em Conserva",
+    "chinese_title": "酸豆角肉末炒饭",
     "description": "",
     "price": "R$30,00",
     "img": "https://placehold.jp/100x100.png"
@@ -114,85 +130,9 @@
   {
     "id": 17,
     "title": "Arroz Frito da Casa",
+    "chinese_title": "本店特色炒饭",
     "description": "",
     "price": "R$38,00",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 18,
-    "title": "Arroz Branco com Carne",
-    "description": "",
-    "price": "R$32,00",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 19,
-    "title": "Arroz Branco com Frango",
-    "description": "",
-    "price": "R$28,00",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 20,
-    "title": "Arroz Branco com Lombo Suíno",
-    "description": "",
-    "price": "R$30,00",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 21,
-    "title": "Arroz Branco com Frutos do Mar",
-    "description": "",
-    "price": "R$30,00",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 22,
-    "title": "Arroz Branco com Ovos e Tomate",
-    "description": "",
-    "price": "R$30,00",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 23,
-    "title": "Arroz Chopsuey (Legumes)",
-    "description": "",
-    "price": "R$28,00",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 24,
-    "title": "Arroz com Bacon Chinês",
-    "description": "",
-    "price": "R$32,00",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 25,
-    "title": "Arroz Branco com Lombinho Agridoce",
-    "description": "",
-    "price": "R$35,00",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 26,
-    "title": "Arroz Branco com Frango ao Estilo Gong Bao",
-    "description": "",
-    "price": "R$35,00",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 27,
-    "title": "Arroz Branco com Lombinho Picante 🌶",
-    "description": "",
-    "price": "R$35,00",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 28,
-    "title": "Arroz Branco com Tofu da Casa",
-    "description": "",
-    "price": "R$35,00",
     "img": "https://placehold.jp/100x100.png"
   }
 ]

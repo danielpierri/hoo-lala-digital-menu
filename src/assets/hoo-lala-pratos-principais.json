@@ -2,6 +2,7 @@
   {
     "id": 1,
     "title": "Barriga de Porco ao Molho Shoyu",
+    "chinese_title": "红烧肉",
     "description": "",
     "price": "R$58,00",
     "img": "https://placehold.jp/100x100.png"
@@ -9,6 +10,7 @@
   {
     "id": 2,
     "title": "Lombo Suíno ao Molho Especial Chinês 🌶",
+    "chinese_title": "鱼香肉丝",
     "description": "",
     "price": "R$48,00",
     "img": "https://placehold.jp/100x100.png"
@@ -16,6 +18,7 @@
   {
     "id": 3,
     "title": "Lombo Suíno Agridoce",
+    "chinese_title": "古老肉",
     "description": "",
     "price": "R$48,00",
     "img": "https://placehold.jp/100x100.png"
@@ -23,6 +26,7 @@
   {
     "id": 4,
     "title": "Costela de Porco Agridoce",
+    "chinese_title": "糖醋排骨",
     "description": "",
     "price": "R$48,00",
     "img": "https://placehold.jp/100x100.png"
@@ -30,6 +34,7 @@
   {
     "id": 5,
     "title": "Costela de Porco com Sal e Pimenta",
+    "chinese_title": "椒盐排骨",
     "description": "",
     "price": "R$48,00",
     "img": "https://placehold.jp/100x100.png"
@@ -37,6 +42,7 @@
   {
     "id": 6,
     "title": "Costela Suína ao Molho Especial Chinês",
+    "chinese_title": "红烧排骨",
     "description": "",
     "price": "R$60,00",
     "img": "https://placehold.jp/100x100.png"
@@ -44,6 +50,7 @@
   {
     "id": 7,
     "title": "Barriga Suína ao Molho Picante 🌶",
+    "chinese_title": "回锅肉",
     "description": "",
     "price": "R$48,00",
     "img": "https://placehold.jp/100x100.png"
@@ -51,6 +58,7 @@
   {
     "id": 8,
     "title": "Barriga Suína com Verduras Secas em Conserva",
+    "chinese_title": "梅菜扣肉",
     "description": "",
     "price": "R$60,00",
     "img": "https://placehold.jp/100x100.png"
@@ -58,6 +66,7 @@
   {
     "id": 9,
     "title": "Tripa Suína Frita Com Verduras em Conserva",
+    "chinese_title": "酸菜肥肠",
     "description": "",
     "price": "R$48,00",
     "img": "https://placehold.jp/100x100.png"
@@ -65,6 +74,7 @@
   {
     "id": 10,
     "title": "Tripa Suína Frita ao Molho Shoyu 🌶",
+    "chinese_title": "葱爆肥肠",
     "description": "",
     "price": "R$48,00",
     "img": "https://placehold.jp/100x100.png"
@@ -72,6 +82,7 @@
   {
     "id": 11,
     "title": "Moela Apimentada 🌶",
+    "chinese_title": "辣子鸡胗",
     "description": "",
     "price": "R$40,00",
     "img": "https://placehold.jp/100x100.png"
@@ -79,6 +90,7 @@
   {
     "id": 12,
     "title": "Cordeiro ao Molho Especial",
+    "chinese_title": "红烧羊肉",
     "description": "",
     "price": "R$72,00",
     "img": "https://placehold.jp/100x100.png"
@@ -86,6 +98,7 @@
   {
     "id": 13,
     "title": "Lula ao Molho Picante 🌶",
+    "chinese_title": "辣子鲜鱿",
     "description": "",
     "price": "R$60,00",
     "img": "https://placehold.jp/100x100.png"
@@ -93,6 +106,7 @@
   {
     "id": 14,
     "title": "Lula Frita com Verduras em Conserva",
+    "chinese_title": "酸菜鲜鱿",
     "description": "",
     "price": "R$60,00",
     "img": "https://placehold.jp/100x100.png"
@@ -100,6 +114,7 @@
   {
     "id": 15,
     "title": "Pescadinha ao Molho Chinês",
+    "chinese_title": "红烧黄鱼",
     "description": "",
     "price": "R$52,00",
     "img": "https://placehold.jp/100x100.png"
@@ -107,6 +122,7 @@
   {
     "id": 16,
     "title": "Caldo de Filé de Peixe Especial 🌶",
+    "chinese_title": "水煮鱼片",
     "description": "",
     "price": "R$55,00",
     "img": "https://placehold.jp/100x100.png"
@@ -114,6 +130,7 @@
   {
     "id": 17,
     "title": "Caldo de Filé de Peixe com Verduras em Conserva 🌶",
+    "chinese_title": "酸菜鱼片",
     "description": "",
     "price": "R$55,00",
     "img": "https://placehold.jp/100x100.png"
@@ -121,6 +138,7 @@
   {
     "id": 18,
     "title": "Beringela Frita Sabor ao Mar 🌶",
+    "chinese_title": "鱼香茄子",
     "description": "",
     "price": "R$38,00",
     "img": "https://placehold.jp/100x100.png"
@@ -128,6 +146,7 @@
   {
     "id": 19,
     "title": "Família Feliz (Frango, Carne, Camarão e Verduras)",
+    "chinese_title": "全家福",
     "description": "",
     "price": "R$50,00",
     "img": "https://placehold.jp/100x100.png"
@@ -135,6 +154,7 @@
   {
     "id": 20,
     "title": "Tofu Frito da Casa",
+    "chinese_title": "家常豆腐",
     "description": "",
     "price": "R$40,00",
     "img": "https://placehold.jp/100x100.png"
@@ -142,6 +162,7 @@
   {
     "id": 21,
     "title": "Tofu Frito ao Molho Picante Especial 🌶",
+    "chinese_title": "麻辣豆腐",
     "description": "",
     "price": "R$39,00",
     "img": "https://placehold.jp/100x100.png"
@@ -149,6 +170,7 @@
   {
     "id": 22,
     "title": "Bolinhos de Tofu com Frutos do Mar",
+    "chinese_title": "海鲜豆腐泡",
     "description": "",
     "price": "R$52,00",
     "img": "https://placehold.jp/100x100.png"
@@ -156,6 +178,7 @@
   {
     "id": 23,
     "title": "Peixe Espada Frito ao Molho da Casa",
+    "chinese_title": "香煎带鱼",
     "description": "",
     "price": "R$42,00",
     "img": "https://placehold.jp/100x100.png"
@@ -163,6 +186,7 @@
   {
     "id": 24,
     "title": "Camarão Picante 🌶",
+    "chinese_title": "宫保虾仁",
     "description": "",
     "price": "R$60,00",
     "img": "https://placehold.jp/100x100.png"
@@ -170,6 +194,7 @@
   {
     "id": 25,
     "title": "Brócolis Frito com Camarão",
+    "chinese_title": "虾仁西兰花",
     "description": "",
     "price": "R$62,00",
     "img": "https://placehold.jp/100x100.png"
@@ -177,6 +202,7 @@
   {
     "id": 26,
     "title": "Brócolis Frito com Carne",
+    "chinese_title": "西兰花炒牛肉",
     "description": "",
     "price": "R$54,00",
     "img": "https://placehold.jp/100x100.png"
@@ -184,6 +210,7 @@
   {
     "id": 27,
     "title": "Ensopado de Carne ao Molho Picante 🌶",
+    "chinese_title": "水煮牛肉",
     "description": "",
     "price": "R$52,00",
     "img": "https://placehold.jp/100x100.png"
@@ -191,6 +218,7 @@
   {
     "id": 28,
     "title": "Carne na Chapa ao Estilo da Casa",
+    "chinese_title": "铁板牛肉",
     "description": "",
     "price": "R$58,00",
     "img": "https://placehold.jp/100x100.png"
@@ -198,6 +226,7 @@
   {
     "id": 29,
     "title": "Polvo na Chapa ao Estilo da Casa",
+    "chinese_title": "铁板八爪鱼",
     "description": "",
     "price": "R$78,00",
     "img": "https://placehold.jp/100x100.png"
@@ -205,6 +234,7 @@
   {
     "id": 30,
     "title": "Tilápia no Vapor ao Molho Chinês",
+    "chinese_title": "鲫鱼(清蒸/红烧)",
     "description": "",
     "price": "PREENCHER",
     "img": "https://placehold.jp/100x100.png"
@@ -212,6 +242,7 @@
   {
     "id": 31,
     "title": "Rã",
+    "chinese_title": "田鸡",
     "description": "",
     "price": "R$88,00",
     "img": "https://placehold.jp/100x100.png"
@@ -219,6 +250,7 @@
   {
     "id": 32,
     "title": "Pele de Porco Três Delícias",
+    "chinese_title": "三鲜猪皮泡",
     "description": "",
     "price": "R$50,00",
     "img": "https://placehold.jp/100x100.png"
@@ -226,6 +258,7 @@
   {
     "id": 33,
     "title": "Carne Fatiada com Aspargos",
+    "chinese_title": "芦笋牛肉片",
     "description": "",
     "price": "R$62,00",
     "img": "https://placehold.jp/100x100.png"
@@ -233,6 +266,7 @@
   {
     "id": 34,
     "title": "Buchinho Bovino com Verduras Picantes 🌶",
+    "chinese_title": "爆炒牛百叶",
     "description": "",
     "price": "R$48,00",
     "img": "https://placehold.jp/100x100.png"
@@ -240,6 +274,7 @@
   {
     "id": 35,
     "title": "Pimenta Verde com Tofu Seco",
+    "chinese_title": "小尖椒香干",
     "description": "",
     "price": "R$42,00",
     "img": "https://placehold.jp/100x100.png"
@@ -247,6 +282,7 @@
   {
     "id": 36,
     "title": "Melãozinho com Carne",
+    "chinese_title": "苦瓜肉片",
     "description": "",
     "price": "R$50,00",
     "img": "https://placehold.jp/100x100.png"
@@ -254,6 +290,7 @@
   {
     "id": 37,
     "title": "Carne Sabor Cominho 🌶",
+    "chinese_title": "孜然牛肉",
     "description": "",
     "price": "R$50,00",
     "img": "https://placehold.jp/100x100.png"

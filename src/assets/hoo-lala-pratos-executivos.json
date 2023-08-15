@@ -2,6 +2,7 @@
   {
     "id": 1,
     "title": "Arroz Branco com Carne",
+    "chinese_title": "牛肉盖饭",
     "description": "",
     "price": "R$32,00",
     "img": "https://placehold.jp/100x100.png"
@@ -9,6 +10,7 @@
   {
     "id": 2,
     "title": "Arroz Branco com Frango",
+    "chinese_title": "鸡肉盖饭",
     "description": "",
     "price": "R$28,00",
     "img": "https://placehold.jp/100x100.png"
@@ -16,6 +18,7 @@
   {
     "id": 3,
     "title": "Arroz Branco com Lombo Suíno",
+    "chinese_title": "猪肉盖饭",
     "description": "",
     "price": "R$30,00",
     "img": "https://placehold.jp/100x100.png"
@@ -23,6 +26,7 @@
   {
     "id": 4,
     "title": "Arroz Branco com Frutos do Mar",
+    "chinese_title": "海鲜盖饭",
     "description": "",
     "price": "R$30,00",
     "img": "https://placehold.jp/100x100.png"
@@ -30,6 +34,7 @@
   {
     "id": 5,
     "title": "Arroz Branco com Ovos e Tomate",
+    "chinese_title": "西红柿鸡蛋盖饭",
     "description": "",
     "price": "R$30,00",
     "img": "https://placehold.jp/100x100.png"
@@ -37,6 +42,7 @@
   {
     "id": 6,
     "title": "Arroz Chopsuey (Legumes)",
+    "chinese_title": "素什锦盖饭",
     "description": "",
     "price": "R$28,00",
     "img": "https://placehold.jp/100x100.png"
@@ -44,6 +50,7 @@
   {
     "id": 7,
     "title": "Arroz com Bacon Chinês",
+    "chinese_title": "腊味炒饭",
     "description": "",
     "price": "R$32,00",
     "img": "https://placehold.jp/100x100.png"
@@ -51,6 +58,7 @@
   {
     "id": 8,
     "title": "Arroz Branco com Lombinho Agridoce",
+    "chinese_title": "咕老肉盖饭",
     "description": "",
     "price": "R$35,00",
     "img": "https://placehold.jp/100x100.png"
@@ -58,6 +66,7 @@
   {
     "id": 9,
     "title": "Arroz Branco com Frango ao Estilo Gong Bao",
+    "chinese_title": "宫保鸡丁盖饭",
     "description": "",
     "price": "R$35,00",
     "img": "https://placehold.jp/100x100.png"
@@ -65,6 +74,7 @@
   {
     "id": 10,
     "title": "Arroz Branco com Lombinho Picante 🌶",
+    "chinese_title": "鱼香肉丝盖饭",
     "description": "",
     "price": "R$35,00",
     "img": "https://placehold.jp/100x100.png"
@@ -72,6 +82,7 @@
   {
     "id": 11,
     "title": "Arroz Branco com Tofu da Casa",
+    "chinese_title": "家常豆腐盖饭",
     "description": "",
     "price": "R$35,00",
     "img": "https://placehold.jp/100x100.png"
