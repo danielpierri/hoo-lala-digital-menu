@@ -4,7 +4,7 @@
     "title": "Sopa Agripicante 🌶",
     "chinese_title": "酸辣汤",
     "description": "",
-    "price": "R$28,00",
+    "price": "R$30,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
@@ -20,7 +20,7 @@
     "title": "Sopa de Frutos do Mar com Tofu",
     "chinese_title": "海鲜豆腐汤",
     "description": "",
-    "price": "R$35,00",
+    "price": "R$38,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
@@ -28,7 +28,7 @@
     "title": "Sopa Wonton",
     "chinese_title": "馄饨汤",
     "description": "",
-    "price": "R$19,00",
+    "price": "R$20,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
@@ -41,22 +41,6 @@
   },
   {
     "id": 6,
-    "title": "Sopa de Algas com Costela",
-    "chinese_title": "海带排骨汤",
-    "description": "",
-    "price": "R$35,00",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 7,
-    "title": "Sopa de Costela com Milho",
-    "chinese_title": "排骨玉米汤",
-    "description": "",
-    "price": "R$35,00",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 8,
     "title": "Sopa de Bucho de Peixe",
     "chinese_title": "鱼肚汤 (小)",
     "description": "",
@@ -64,7 +48,7 @@
     "img": "https://placehold.jp/100x100.png"
   },
   {
-    "id": 9,
+    "id": 7,
     "title": "Sopa de Bucho de Peixe Grande",
     "chinese_title": "鱼肚汤 (大)",
     "description": "",
@@ -72,15 +56,15 @@
     "img": "https://placehold.jp/100x100.png"
   },
   {
-    "id": 10,
+    "id": 8,
     "title": "Sopa de Wakame e Tofu",
     "chinese_title": "裙带菜豆腐汤",
     "description": "",
-    "price": "R$35,00",
+    "price": "R$38,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
-    "id": 11,
+    "id": 9,
     "title": "Caldo de Carne Estilo Xihu",
     "chinese_title": "西湖牛肉羹",
     "description": "",

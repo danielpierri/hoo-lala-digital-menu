@@ -2,37 +2,37 @@
   {
     "id": 1,
     "title": "Café Pequeno",
-    "price": "R$3,50",
+    "price": "R$4,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 2,
     "title": "Café Pingado",
-    "price": "R$4,50",
+    "price": "R$5,50",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 3,
     "title": "Café com Leite",
-    "price": "R$5,80",
+    "price": "R$6,50",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 4,
     "title": "Café Expresso",
-    "price": "R$5,50",
+    "price": "R$6,90",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 5,
     "title": "Café Expresso com Leite",
-    "price": "R$8,50",
+    "price": "R$9,50",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 6,
     "title": "Cappuccino",
-    "price": "R$9,50",
+    "price": "R$10,50",
     "img": "https://placehold.jp/100x100.png"
   },
   {
@@ -56,37 +56,37 @@
   {
     "id": 10,
     "title": "Vitaminas (300 ml)",
-    "price": "R$10,50",
+    "price": "R$11,50",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 11,
     "title": "Vitaminas (500 ml)",
-    "price": "R$14,50",
+    "price": "R$15,50",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 12,
     "title": "Sucos Naturais (300 ml)",
-    "price": "R$9,90",
+    "price": "R$10,90",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 13,
     "title": "Sucos Naturais (500 ml)",
-    "price": "R$12,90",
+    "price": "R$15,90",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 14,
     "title": "Sucos Mistos (300 ml)",
-    "price": "R$10,90",
+    "price": "R$12,50",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 15,
     "title": "Sucos Mistos (500 ml)",
-    "price": "R$13,90",
+    "price": "R$16,90",
     "img": "https://placehold.jp/100x100.png"
   },
   {
@@ -103,120 +103,96 @@
   },
   {
     "id": 18,
-    "title": "Chá com Sabor de Frutas (500 ml)",
+    "title": "Garrafa de Chá com Sabor de Frutas (500 ml)",
     "price": "R$18,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 19,
-    "title": "Bubble Milk Tea (500 ml)",
-    "price": "R$16,00",
+    "title": "Refrigerante (lata de 250 ml)",
+    "price": "R$6,80",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 20,
-    "title": "Bubble Milk Tea (700 ml)",
-    "price": "R$19,00",
+    "title": "Refrigerante (lata de 350 ml)",
+    "price": "R$8,80",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 21,
-    "title": "Boba Tea de Frutas (500 ml)",
-    "price": "R$15,00",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 22,
-    "title": "Boba Tea de Frutas (700 ml)",
-    "price": "R$17,00",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 23,
-    "title": "Refrigerante (lata de 250 ml)",
-    "price": "R$6,50",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 24,
-    "title": "Refrigerante (lata de 350 ml)",
-    "price": "R$8,50",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 25,
     "title": "Guaravita",
     "price": "R$4,90",
     "img": "https://placehold.jp/100x100.png"
   },
   {
-    "id": 26,
+    "id": 22,
     "title": "Guaraviton",
-    "price": "R$8,90",
+    "price": "R$9,90",
     "img": "https://placehold.jp/100x100.png"
   },
   {
-    "id": 27,
+    "id": 23,
     "title": "Refrigerante H2OH!",
-    "price": "R$8,90",
+    "price": "R$9,90",
     "img": "https://placehold.jp/100x100.png"
   },
   {
-    "id": 28,
+    "id": 29,
     "title": "Matte Leão",
     "price": "R$7,50",
     "img": "https://placehold.jp/100x100.png"
   },
   {
-    "id": 29,
-    "title": "Água Sem Gás",
-    "price": "R$5,50",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
     "id": 30,
-    "title": "Água Com Gás",
-    "price": "R$6,50",
+    "title": "Água Sem Gás",
+    "price": "R$5,80",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 31,
-    "title": "Caipirinha",
-    "price": "R$14,00",
+    "title": "Água Com Gás",
+    "price": "R$6,80",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 32,
-    "title": "Gin Tônica",
-    "price": "R$18,00",
+    "title": "Caipirinha",
+    "price": "R$16,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 33,
-    "title": "Cuba Libre",
-    "price": "R$18,00",
+    "title": "Gin Tônica",
+    "price": "R$22,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 34,
-    "title": "Cervejas Latão (473 ml)",
-    "price": "R$9,50",
+    "title": "Cuba Libre",
+    "price": "R$22,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 35,
+    "title": "Cervejas Latão (473 ml)",
+    "price": "R$9,90",
+    "img": "https://placehold.jp/100x100.png"
+  },
+  {
+    "id": 36,
     "title": "Heineken Longneck (330 ml)",
     "price": "R$11,90",
     "img": "https://placehold.jp/100x100.png"
   },
   {
-    "id": 36,
+    "id": 37,
     "title": "Heineken Longneck (600 ml)",
     "price": "R$18,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
-    "id": 37,
+    "id": 38,
     "title": "Corona Longneck (330 ml)",
     "price": "R$6,50",
     "img": "https://placehold.jp/100x100.png"

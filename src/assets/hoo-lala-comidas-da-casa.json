@@ -4,12 +4,12 @@
     "title": "Repolho Frito com Bacon Apimentado 🌶",
     "chinese_title": "手撕包菜",
     "description": "",
-    "price": "R$34,00",
+    "price": "R$36,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 2,
-    "title": "Acelga Chinesa Frita",
+    "title": "Acelga Chinesa Frita (Qing Cai)",
     "chinese_title": "炒小白菜",
     "description": "",
     "price": "R$30,00",
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "title": "Acelga Frita ao Molho de Alho",
+    "title": "Acelga Frita ao Molho de Alho (Acelga Branca)",
     "chinese_title": "蒜茸白菜",
     "description": "",
     "price": "R$28,00",
@@ -68,43 +68,35 @@
     "title": "Couve-flor Frita Picante 🌶",
     "chinese_title": "干锅花菜",
     "description": "",
-    "price": "R$36,00",
+    "price": "R$38,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 10,
-    "title": "Quiabo ao Alho e Óleo",
-    "chinese_title": "葱油秋葵",
+    "title": "Batata Fatiada Frita com Barriga Suína 🌶",
+    "chinese_title": "干锅土豆",
     "description": "",
-    "price": "R$36,00",
+    "price": "R$38,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 11,
-    "title": "Batata Fatiada Frita com Barriga Suína 🌶",
-    "chinese_title": "干锅土豆",
+    "title": "Três Delícias Vegetariano (Batata, Beringela e Pimentão)",
+    "chinese_title": "地三鲜",
     "description": "",
-    "price": "R$36,00",
+    "price": "R$38,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 12,
-    "title": "Três Delícias Vegetariano (Batata, Beringela e Pimentão)",
-    "chinese_title": "地三鲜",
+    "title": "Tofu Seco com Lombo Suíno",
+    "chinese_title": "香干肉丝",
     "description": "",
-    "price": "R$36,00",
+    "price": "R$47,00",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 13,
-    "title": "Tofu Seco com Lombo Suíno",
-    "chinese_title": "香干肉丝",
-    "description": "",
-    "price": "R$45,00",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 14,
     "title": "Choy Sum ao Alho e Óleo",
     "chinese_title": "葱油菜心",
     "description": "",
