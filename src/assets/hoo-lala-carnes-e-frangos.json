@@ -5,7 +5,7 @@
     "chinese_title": "洋葱牛肉",
     "description": "",
     "price": "R$49,00",
-    "img": "https://placehold.jp/100x100.png"
+    "img": "images/502.jpg"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "chinese_title": "蚝油牛肉",
     "description": "",
     "price": "R$49,00",
-    "img": "https://placehold.jp/100x100.png"
+    "img": "images/501.jpg"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "chinese_title": "辣子牛肉",
     "description": "",
     "price": "R$49,00",
-    "img": "https://placehold.jp/100x100.png"
+    "img": "images/503.jpg"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "chinese_title": "青椒牛肉",
     "description": "",
     "price": "R$49,00",
-    "img": "https://placehold.jp/100x100.png"
+    "img": "images/504.jpg"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "chinese_title": "咖哩牛肉",
     "description": "",
     "price": "R$50,00",
-    "img": "https://placehold.jp/100x100.png"
+    "img": "images/505.jpg"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "chinese_title": "宫宝鸡丁",
     "description": "",
     "price": "R$48,00",
-    "img": "https://placehold.jp/100x100.png"
+    "img": "images/506.jpg"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "chinese_title": "咖喱鸡",
     "description": "",
     "price": "R$48,00",
-    "img": "https://placehold.jp/100x100.png"
+    "img": "images/508.jpg"
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "chinese_title": "青椒鸡片",
     "description": "",
     "price": "R$48,00",
-    "img": "https://placehold.jp/100x100.png"
+    "img": "images/509.jpg"
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "chinese_title": "椒盐鸡翅",
     "description": "",
     "price": "R$48,00",
-    "img": "https://placehold.jp/100x100.png"
+    "img": "images/507.jpg"
   },
   {
     "id": 10,
@@ -77,6 +77,6 @@
     "chinese_title": "可乐鸡翅",
     "description": "",
     "price": "R$48,00",
-    "img": "https://placehold.jp/100x100.png"
+    "img": "images/510.jpg"
   }
 ]

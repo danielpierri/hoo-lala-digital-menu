@@ -25,9 +25,9 @@ const Menu = ({ menu, menuTitle, showMenu, toggleMenu }) => {
                     <p className="food__price">{food.price}</p>
                   </div>
                   {/* No futuro, o cardápio terá fotografias. */}
-                  {/* <div>
+                  <div>
                     <img src={food.img} alt={food.description} className="food__img" />
-                  </div> */}
+                  </div>
                 </div>
               )
             })}

@@ -5,7 +5,7 @@
     "chinese_title": "凉拌海带",
     "description": "",
     "price": "R$30,00",
-    "img": "https://placehold.jp/100x100.png"
+    "img": "images/101.jpg"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "chinese_title": "凉拌凤爪",
     "description": "",
     "price": "R$32,00",
-    "img": "https://placehold.jp/100x100.png"
+    "img": "images/102.jpg"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "chinese_title": "凉拌皮蛋豆腐",
     "description": "",
     "price": "R$40,00",
-    "img": "https://placehold.jp/100x100.png"
+    "img": "images/103.jpg"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "chinese_title": "拍黄瓜",
     "description": "",
     "price": "R$28,00",
-    "img": "https://placehold.jp/100x100.png"
+    "img": "images/104.jpg"
   },
   {
     "id": 5,
@@ -37,6 +37,6 @@
     "chinese_title": "凉拌海菜",
     "description": "",
     "price": "R$38,00",
-    "img": "https://placehold.jp/100x100.png"
+    "img": "images/105.jpg"
   }
 ]
