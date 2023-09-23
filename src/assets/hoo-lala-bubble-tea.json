@@ -1,140 +1,29 @@
 [
   {
     "id": 1,
-    "title": "Bubble Tea com Pérolas de Tapioca",
+    "title": "Bubble Milk Tea - Sabores (300 ml)",
+    "chinese_title": "奶泡茶",
     "price": "R$3,50",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 2,
-    "title": "Bubble Tea com Pérolas de Tapioca",
+    "title": "Bubble Milk Tea - Sabores (500 ml)",
+    "chinese_title": "奶泡茶",
     "price": "R$4,50",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 3,
-    "title": "Bubble Tea com Pérolas de Tapioca",
+    "title": "Fruit Bubble Tea - Sabores (300 ml)",
     "price": "R$5,80",
     "img": "https://placehold.jp/100x100.png"
   },
   {
     "id": 4,
-    "title": "Bubble Tea com Pérolas de Tapioca",
+    "title": "Fruit Bubble Tea - Sabores (500 ml)",
+    "chinese_title": "水果珍珠奶茶",
     "price": "R$5,50",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 5,
-    "title": "Bubble Tea com Pérolas de Tapioca",
-    "price": "R$8,50",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 6,
-    "title": "Bubble Tea com Pérolas de Tapioca",
-    "price": "R$9,50",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 7,
-    "title": "Bubble Tea com Pérolas de Tapioca",
-    "price": "R$9,50",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 8,
-    "title": "Bubble Tea com Pérolas de Tapioca",
-    "price": "R$5,80",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 9,
-    "title": "Bubble Tea com Pérolas de Tapioca",
-    "price": "R$18,90",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 10,
-    "title": "Bubble Tea com Pérolas de Tapioca",
-    "price": "R$10,50",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 11,
-    "title": "Bubble Tea com Pérolas de Tapioca",
-    "price": "R$14,50",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 12,
-    "title": "Bubble Tea com Pérolas de Tapioca",
-    "price": "R$9,90",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 13,
-    "title": "Bubble Tea com Pérolas de Tapioca",
-    "price": "R$12,90",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 14,
-    "title": "Bubble Tea com Pérolas de Tapioca",
-    "price": "R$10,90",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 15,
-    "title": "Bubble Tea com Pérolas de Tapioca",
-    "price": "R$13,90",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 16,
-    "title": "Bubble Tea com Pérolas de Tapioca",
-    "price": "R$8,90",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 17,
-    "title": "Bubble Tea com Pérolas de Tapioca",
-    "price": "R$12,00",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 18,
-    "title": "Bubble Tea com Pérolas de Tapioca",
-    "price": "R$18,00",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 19,
-    "title": "Bubble Tea com Pérolas de Tapioca",
-    "price": "R$16,00",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 20,
-    "title": "Bubble Tea com Pérolas de Tapioca",
-    "price": "R$19,00",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 21,
-    "title": "Bubble Tea com Pérolas de Tapioca",
-    "price": "R$15,00",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 22,
-    "title": "Bubble Tea com Pérolas de Tapioca",
-    "price": "R$17,00",
-    "img": "https://placehold.jp/100x100.png"
-  },
-  {
-    "id": 23,
-    "title": "Bubble Tea com Pérolas de Tapioca",
-    "price": "R$6,50",
     "img": "https://placehold.jp/100x100.png"
   }
 ]
