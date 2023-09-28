@@ -1,29 +1,30 @@
 [
   {
     "id": 1,
-    "title": "Bubble Milk Tea - Sabores (300 ml)",
+    "title": "Bubble Milk Tea - Sabores, Bubbles e Jellies (500 ml)",
     "chinese_title": "奶泡茶",
     "price": "R$3,50",
-    "img": "https://placehold.jp/100x100.png"
+    "img": "images/bubble-milk-tea-500.jpg"
   },
   {
     "id": 2,
-    "title": "Bubble Milk Tea - Sabores (500 ml)",
+    "title": "Bubble Milk Tea - Sabores, Bubbles e Jellies (700 ml)",
     "chinese_title": "奶泡茶",
     "price": "R$4,50",
-    "img": "https://placehold.jp/100x100.png"
+    "img": "images/bubble-milk-tea-700.jpg"
   },
   {
     "id": 3,
-    "title": "Fruit Bubble Tea - Sabores (300 ml)",
+    "title": "Fruit Bubble Tea - Sabores, Bubbles e Jellies (500 ml)",
+    "chinese_title": "水果珍珠奶茶",
     "price": "R$5,80",
-    "img": "https://placehold.jp/100x100.png"
+    "img": "images/fruit-bubble-tea-500.webp"
   },
   {
     "id": 4,
-    "title": "Fruit Bubble Tea - Sabores (500 ml)",
+    "title": "Fruit Bubble Tea - Sabores, Bubbles e Jellies (700 ml)",
     "chinese_title": "水果珍珠奶茶",
     "price": "R$5,50",
-    "img": "https://placehold.jp/100x100.png"
+    "img": "images/fruit-bubble-tea-700.jpg"
   }
 ]
