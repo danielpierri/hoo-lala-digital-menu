@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "title": "Café Pequeno",
+    "chinese_title": "小咖啡",
+    "price": "R$4,00",
+    "img": "images/cafe.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Café Pingado",
+    "chinese_title": "咖啡加少量牛奶",
+    "price": "R$5,50",
+    "img": "images/cafe-pingado.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Café com Leite",
+    "chinese_title": "咖啡加牛奶",
+    "price": "R$6,50",
+    "img": "images/cafe-com-leite.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Café Expresso",
+    "chinese_title": "濃咖啡",
+    "price": "R$6,90",
+    "img": "images/cafe-expresso.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Café Expresso com Leite",
+    "chinese_title": "濃縮咖啡加牛奶",
+    "price": "R$9,50",
+    "img": "images/cafe-expresso-com-leite.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Cappuccino",
+    "chinese_title": "卡布奇諾",
+    "price": "R$10,50",
+    "img": "images/cappuccino.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Chocolate Quente Médio",
+    "chinese_title": "中熱巧克力",
+    "price": "R$9,50",
+    "img": "images/chocolate-quente.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Chá (Preto, Verde, Camomila)",
+    "chinese_title": "紅茶、綠茶或甘菊茶",
+    "price": "R$5,80",
+    "img": "images/cha.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Ice Cappuccino",
+    "chinese_title": "冰卡布奇諾",
+    "price": "R$18,90",
+    "img": "images/ice-cappuccino.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Café Escocês (500 ml)",
+    "chinese_title": "蘇格蘭咖啡",
+    "price": "R$18,90",
+    "img": "images/cafe-escoces-2.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Café Escocês (700 ml)",
+    "chinese_title": "蘇格蘭咖啡",
+    "price": "R$22,90",
+    "img": "images/cafe-escoces.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Café Irlandês (500 ml)",
+    "chinese_title": "愛爾蘭咖啡",
+    "price": "R$18,90",
+    "img": "images/cafe-irlandes-2.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Café Irlandês (700 ml)",
+    "chinese_title": "愛爾蘭咖啡",
+    "price": "R$22,90",
+    "img": "images/cafe-irlandes.jpg"
+  }
+]

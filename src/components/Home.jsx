@@ -11,7 +11,11 @@ import hooLalaMassasEArroz from "../assets/hoo-lala-massas-e-arroz.json"
 import hooLalaPratosFrios from "../assets/hoo-lala-pratos-frios.json"
 import hooLalaSopasECaldos from "../assets/hoo-lala-sopas-e-caldos.json"
 import hooLalaBebidas from "../assets/hoo-lala-bebidas.json"
+import hooLalaCafes from "../assets/hoo-lala-cafes.json"
 import hooLalaBubbleTea from "../assets/hoo-lala-bubble-tea.json"
+import hooLalaLemonTea from "../assets/hoo-lala-lemon-tea.json"
+import hooLalaSmoothies from "../assets/hoo-lala-smoothies.json"
+import hooLalaFrapes from "../assets/hoo-lala-frapes.json"
 
 const Home = () => {
   // Data Fetching Custom Hook
@@ -23,7 +27,11 @@ const Home = () => {
   const [pratosFrios] = useFetch(hooLalaPratosFrios)
   const [sopasECaldos] = useFetch(hooLalaSopasECaldos)
   const [bebidas] = useFetch(hooLalaBebidas)
+  const [cafes] = useFetch(hooLalaCafes)
   const [bubbleTea] = useFetch(hooLalaBubbleTea)
+  const [lemonTea] = useFetch(hooLalaLemonTea)
+  const [smoothies] = useFetch(hooLalaSmoothies)
+  const [frapes] = useFetch(hooLalaFrapes)
 
   // Toggle Menu Custom Hook
   const [showPratosPrincipais, setShowPratosPrincipais] = useToggle()
@@ -34,7 +42,11 @@ const Home = () => {
   const [showPratosFrios, setShowPratosFrios] = useToggle()
   const [showSopasECaldos, setShowSopasECaldos] = useToggle()
   const [showBebidas, setShowBebidas] = useToggle()
+  const [showCafes, setShowCafes] = useToggle()
   const [showBubbleTea, setShowBubbleTea] = useToggle()
+  const [showLemonTea, setShowLemonTea] = useToggle()
+  const [showSmoothies, setShowSmoothies] = useToggle()
+  const [showFrapes, setShowFrapes] = useToggle()
 
   // Animation
   const animation = {
@@ -81,9 +93,17 @@ const Home = () => {
 
               <Menu menu={sopasECaldos} menuTitle={"Sopas e Caldos"} showMenu={showSopasECaldos} toggleMenu={setShowSopasECaldos} />
 
-              <Menu menu={bebidas} menuTitle={"Bebidas"} showMenu={showBebidas} toggleMenu={setShowBebidas} />
+              <Menu menu={bebidas} menuTitle={"Bebidas e Sucos"} showMenu={showBebidas} toggleMenu={setShowBebidas} />
+
+              <Menu menu={cafes} menuTitle={"Cafés"} showMenu={showCafes} toggleMenu={setShowCafes} />
 
               <Menu menu={bubbleTea} menuTitle={"Bubble Tea"} showMenu={showBubbleTea} toggleMenu={setShowBubbleTea} />
+
+              <Menu menu={lemonTea} menuTitle={"Lemon Tea"} showMenu={showLemonTea} toggleMenu={setShowLemonTea} />
+
+              <Menu menu={smoothies} menuTitle={"Smoothies"} showMenu={showSmoothies} toggleMenu={setShowSmoothies} />
+
+              <Menu menu={frapes} menuTitle={"Frapês"} showMenu={showFrapes} toggleMenu={setShowFrapes} />
 
             </div>
 

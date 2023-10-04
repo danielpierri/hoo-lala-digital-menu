@@ -1,199 +1,169 @@
 [
   {
-    "id": 1,
-    "title": "Café Pequeno",
-    "price": "R$4,00",
-    "img": "images/cafe.jpg"
-  },
-  {
-    "id": 2,
-    "title": "Café Pingado",
-    "price": "R$5,50",
-    "img": "images/cafe-pingado.jpg"
-  },
-  {
-    "id": 3,
-    "title": "Café com Leite",
-    "price": "R$6,50",
-    "img": "images/cafe-com-leite.jpg"
-  },
-  {
-    "id": 4,
-    "title": "Café Expresso",
-    "price": "R$6,90",
-    "img": "images/cafe-expresso.jpg"
-  },
-  {
-    "id": 5,
-    "title": "Café Expresso com Leite",
-    "price": "R$9,50",
-    "img": "images/cafe-expresso-com-leite.jpg"
-  },
-  {
-    "id": 6,
-    "title": "Cappuccino",
-    "price": "R$10,50",
-    "img": "images/cappuccino.jpg"
-  },
-  {
-    "id": 7,
-    "title": "Chocolate Quente Médio",
-    "price": "R$9,50",
-    "img": "images/chocolate-quente.jpg"
-  },
-  {
-    "id": 8,
-    "title": "Chá (Preto, Verde, Camomila)",
-    "price": "R$5,80",
-    "img": "images/cha.jpg"
-  },
-  {
-    "id": 9,
-    "title": "Ice Cappuccino",
-    "price": "R$18,90",
-    "img": "images/ice-cappuccino.jpg"
-  },
-  {
     "id": 10,
     "title": "Vitaminas (300 ml)",
+    "chinese_title": "果汁到牛奶",
     "price": "R$11,50",
     "img": "images/vitamina-2.jpg"
   },
   {
     "id": 11,
     "title": "Vitaminas (500 ml)",
+    "chinese_title": "果汁到牛奶",
     "price": "R$15,50",
     "img": "images/vitamina.jpg"
   },
   {
     "id": 12,
     "title": "Sucos Naturais (300 ml)",
+    "chinese_title": "天然果汁",
     "price": "R$10,90",
     "img": "images/suco-2.jpg"
   },
   {
     "id": 13,
     "title": "Sucos Naturais (500 ml)",
+    "chinese_title": "天然果汁",
     "price": "R$15,90",
     "img": "images/suco.jpg"
   },
   {
     "id": 14,
     "title": "Sucos Mistos (300 ml)",
+    "chinese_title": "混合果汁",
     "price": "R$12,50",
     "img": "images/sucos-mistos.jpg"
   },
   {
     "id": 15,
     "title": "Sucos Mistos (500 ml)",
+    "chinese_title": "混合果汁",
     "price": "R$16,90",
     "img": "images/sucos-mistos-2.jpg"
   },
   {
     "id": 16,
     "title": "Suco Del Valle (sabores)",
+    "chinese_title": "盒裝果汁",
     "price": "R$8,90",
     "img": "images/suco-del-valle.png"
   },
   {
     "id": 17,
     "title": "Chá Chinês Gelado",
+    "chinese_title": "中國冰茶",
     "price": "R$12,00",
     "img": "images/cha-chines-gelado.jpeg"
   },
   {
     "id": 18,
     "title": "Garrafa de Chá com Sabor de Frutas (500 ml)",
+    "chinese_title": "水果茶瓶",
     "price": "R$18,00",
     "img": "images/cha-de-frutas.webp"
   },
   {
     "id": 19,
-    "title": "Refrigerante (lata de 269 ml)",
+    "title": "Refrigerante (lata de 220 ml)",
+    "chinese_title": "小蘇打水",
     "price": "R$6,80",
-    "img": "images/refrigerante-269.webp"
+    "img": "images/refrigerante-220.jpg"
   },
   {
     "id": 20,
     "title": "Refrigerante (lata de 350 ml)",
+    "chinese_title": "冰箱",
     "price": "R$8,80",
     "img": "images/refrigerante-350.jpg"
   },
   {
     "id": 21,
     "title": "Guaravita",
+    "chinese_title": "天然瓜拉那",
     "price": "R$4,90",
     "img": "images/guaravita.jpg"
   },
   {
     "id": 22,
     "title": "Guaraviton",
+    "chinese_title": "大量天然瓜拉納",
     "price": "R$9,90",
     "img": "images/guaraviton.jpg"
   },
   {
     "id": 23,
     "title": "Refrigerante H2OH!",
+    "chinese_title": "檸檬汽水",
     "price": "R$9,90",
     "img": "images/refrigerante-h2oh.webp"
   },
   {
     "id": 29,
     "title": "Matte Leão",
+    "chinese_title": "霧面的",
     "price": "R$7,50",
     "img": "images/matte-leao.jpg"
   },
   {
     "id": 30,
     "title": "Água Sem Gás",
+    "chinese_title": "死水",
     "price": "R$5,80",
     "img": "images/agua-sem-gas.webp"
   },
   {
     "id": 31,
     "title": "Água Com Gás",
+    "chinese_title": "蘇打水",
     "price": "R$6,80",
     "img": "images/agua-com-gas.webp"
   },
   {
     "id": 32,
     "title": "Caipirinha",
+    "chinese_title": "凱匹林納雞尾酒",
     "price": "R$16,00",
     "img": "images/caipirinha.png"
   },
   {
     "id": 33,
     "title": "Gin Tônica",
+    "chinese_title": "杜松子酒和補品",
     "price": "R$22,00",
     "img": "images/gin-tonica.webp"
   },
   {
     "id": 34,
     "title": "Cuba Libre",
+    "chinese_title": "自由古巴",
     "price": "R$22,00",
     "img": "images/cuba-libre.jpg"
   },
   {
     "id": 35,
     "title": "Cervejas Latão (473 ml)",
+    "chinese_title": "啤酒罐",
     "price": "R$9,90",
     "img": "images/cervejas-latao.png"
   },
   {
     "id": 36,
     "title": "Heineken Longneck (330 ml)",
+    "chinese_title": "長頸啤酒",
     "price": "R$11,90",
     "img": "images/heineken-330.webp"
   },
   {
     "id": 37,
     "title": "Heineken Longneck (600 ml)",
+    "chinese_title": "長頸啤酒",
     "price": "R$18,00",
     "img": "images/heineken-600.jpg"
   },
   {
     "id": 38,
     "title": "Corona Longneck (330 ml)",
+    "chinese_title": "長頸啤酒",
     "price": "R$6,50",
     "img": "images/corona-longneck.png"
   }

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Lemon Tea - Base de Chá Oolong, Preto ou de Jasmim - Sabores (500 ml)",
+    "chinese_title": "以烏龍茶、紅茶或茉莉花茶為基底的檸檬茶 (Confira o Nosso Cardápio de Bebidas Especiais)",
+    "price": "R$16,00",
+    "img": "images/lemon-tea-2.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Lemon Tea - Base de Chá Oolong, Preto ou de Jasmim - Sabores (700 ml)",
+    "chinese_title": "以烏龍茶、紅茶或茉莉花茶為基底的檸檬茶 (Confira o Nosso Cardápio de Bebidas Especiais)",
+    "price": "R$19,00",
+    "img": "images/lemon-tea.jpg"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Smoothies - Sabores (500 ml)",
+    "chinese_title": "冰沙 (Confira o Nosso Cardápio de Bebidas Especiais)",
+    "price": "R$17,00",
+    "img": "images/smoothie.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Smoothies - Sabores (700 ml)",
+    "chinese_title": "冰沙 (Confira o Nosso Cardápio de Bebidas Especiais)",
+    "price": "R$20,00",
+    "img": "images/smoothie-2.jpg"
+  }
+]
