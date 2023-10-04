@@ -4,13 +4,13 @@
     "title": "Frapês com Chantilly - Sabores (500 ml)",
     "chinese_title": "冰沙 (Confira o Nosso Cardápio de Bebidas Especiais)",
     "price": "R$18,90",
-    "img": "images/frape-2.jpg"
+    "img": "images/frape.jpg"
   },
   {
     "id": 2,
     "title": "Frapês com Chantilly - Sabores (700 ml)",
     "chinese_title": "冰沙 (Confira o Nosso Cardápio de Bebidas Especiais)",
     "price": "R$21,90",
-    "img": "images/frape.jpg"
+    "img": "images/frape-2.jpg"
   }
 ]
