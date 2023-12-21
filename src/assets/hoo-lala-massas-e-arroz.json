@@ -48,6 +48,14 @@
     "img": "images/305.jpg"
   },
   {
+    "id": 6,
+    "title": "Lámen com Sopa Agripicante",
+    "chinese_title": "农家乐汤拉面",
+    "description": "",
+    "price": "R$32,00",
+    "img": "images/329.jpg"
+  },
+  {
     "id": 7,
     "title": "Lámen de Cordeiro",
     "chinese_title": "红烧羊肉/羊杂手擀面",
