@@ -57,48 +57,55 @@
   },
   {
     "id": 18,
-    "title": "Garrafa de Chá com Sabor de Frutas (500 ml)",
+    "title": "Garrafa de Chá com Sabores de Frutas (500 ml)",
     "chinese_title": "水果茶瓶",
     "price": "R$18,00",
-    "img": "images/cha-de-frutas.webp"
+    "img": "images/cha-de-frutas.jpg"
   },
   {
     "id": 19,
+    "title": "Garrafa de Chá com Sabor Diversos (500 ml)",
+    "chinese_title": "不同口味的水果茶",
+    "price": "R$20,00",
+    "img": "images/cha-de-frutas-diversos.jpg"
+  },
+  {
+    "id": 20,
     "title": "Refrigerante (lata de 220 ml)",
     "chinese_title": "小蘇打水",
     "price": "R$6,80",
     "img": "images/refrigerante-220.jpg"
   },
   {
-    "id": 20,
+    "id": 21,
     "title": "Refrigerante (lata de 350 ml)",
     "chinese_title": "冰箱",
     "price": "R$8,80",
     "img": "images/refrigerante-350.jpg"
   },
   {
-    "id": 21,
+    "id": 22,
     "title": "Guaravita",
     "chinese_title": "天然瓜拉那",
     "price": "R$4,90",
     "img": "images/guaravita.jpg"
   },
   {
-    "id": 22,
+    "id": 23,
     "title": "Guaraviton",
     "chinese_title": "大量天然瓜拉納",
     "price": "R$9,90",
     "img": "images/guaraviton.jpg"
   },
   {
-    "id": 23,
+    "id": 24,
     "title": "Refrigerante H2OH!",
     "chinese_title": "檸檬汽水",
     "price": "R$9,90",
     "img": "images/refrigerante-h2oh.webp"
   },
   {
-    "id": 29,
+    "id": 25,
     "title": "Matte Leão",
     "chinese_title": "马黛茶",
     "price": "R$7,50",
