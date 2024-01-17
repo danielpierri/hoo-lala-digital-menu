@@ -1,3 +1,0 @@
-RewriteCond %{HTTP_HOST} ^hoolalarestaurante.vercel.app$ [NC,OR]
-RewriteCond %{HTTP_HOST} ^hoolalarestaurante.vercel.app$
-RewriteRule ^(.*)$ https://danielpierri.github.io/hoo-lala-digital-menu [L,R=301]

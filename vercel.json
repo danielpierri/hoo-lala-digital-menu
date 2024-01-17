@@ -4,5 +4,12 @@
       "source": "/(.*)", 
       "destination": "/index.html"
     }
+  ],
+  "redirects": [
+    { 
+      "source": "/",
+      "destination": "https://danielpierri.github.io/hoo-lala-digital-menu/", 
+      "permanent": true
+    }
   ]
 }
