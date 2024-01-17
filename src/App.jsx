@@ -38,7 +38,7 @@ function App() {
       ) : (
         <>
           <Routes>
-            <Route path="/hoo-lala-digital-menu" element={ <Home /> } />
+            <Route path="/" element={ <Home /> } />
           </Routes>
 
           <motion.div
