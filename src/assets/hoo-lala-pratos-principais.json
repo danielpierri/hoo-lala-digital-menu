@@ -4,7 +4,7 @@
     "title": "Barriga de Porco ao Molho Shoyu",
     "chinese_title": "红烧肉",
     "description": "",
-    "price": "R$60,00",
+    "price": "R$65,00",
     "img": "images/601.jpg"
   },
   {
@@ -12,7 +12,7 @@
     "title": "Lombo Suíno ao Molho Especial Chinês 🌶",
     "chinese_title": "鱼香肉丝",
     "description": "",
-    "price": "R$48,00",
+    "price": "R$50,00",
     "img": "images/602.jpg"
   },
   {
@@ -20,7 +20,7 @@
     "title": "Lombo Suíno Agridoce",
     "chinese_title": "古老肉",
     "description": "",
-    "price": "R$48,00",
+    "price": "R$50,00",
     "img": "images/603.jpg"
   },
   {
@@ -28,7 +28,7 @@
     "title": "Costela de Porco Agridoce",
     "chinese_title": "糖醋排骨",
     "description": "",
-    "price": "R$48,00",
+    "price": "R$52,00",
     "img": "images/604.jpg"
   },
   {
@@ -36,7 +36,7 @@
     "title": "Costela de Porco com Sal e Pimenta",
     "chinese_title": "椒盐排骨",
     "description": "",
-    "price": "R$48,00",
+    "price": "R$52,00",
     "img": "images/605.jpg"
   },
   {
@@ -44,7 +44,7 @@
     "title": "Costela Suína ao Molho Especial Chinês",
     "chinese_title": "红烧排骨",
     "description": "",
-    "price": "R$60,00",
+    "price": "R$62,00",
     "img": "images/606.jpg"
   },
   {
@@ -52,7 +52,7 @@
     "title": "Barriga Suína ao Molho Picante 🌶",
     "chinese_title": "回锅肉",
     "description": "",
-    "price": "R$48,00",
+    "price": "R$50,00",
     "img": "images/607.jpg"
   },
   {
@@ -60,7 +60,7 @@
     "title": "Barriga Suína com Verduras Secas em Conserva",
     "chinese_title": "梅菜扣肉",
     "description": "",
-    "price": "R$65,00",
+    "price": "R$70,00",
     "img": "images/608.jpg"
   },
   {
@@ -68,7 +68,7 @@
     "title": "Tripa Suína Frita Com Verduras em Conserva",
     "chinese_title": "酸菜肥肠",
     "description": "",
-    "price": "R$48,00",
+    "price": "R$49,00",
     "img": "images/609.jpg"
   },
   {
@@ -76,7 +76,7 @@
     "title": "Tripa Suína Frita ao Molho Shoyu 🌶",
     "chinese_title": "葱爆肥肠",
     "description": "",
-    "price": "R$48,00",
+    "price": "R$49,00",
     "img": "images/610.jpg"
   },
   {
@@ -84,7 +84,7 @@
     "title": "Moela Apimentada 🌶",
     "chinese_title": "辣子鸡胗",
     "description": "",
-    "price": "R$40,00",
+    "price": "R$44,00",
     "img": "images/611.jpg"
   },
   {
@@ -92,7 +92,7 @@
     "title": "Cordeiro ao Molho Especial",
     "chinese_title": "红烧羊肉",
     "description": "",
-    "price": "R$72,00",
+    "price": "R$78,00",
     "img": "images/612.jpg"
   },
   {
@@ -100,7 +100,7 @@
     "title": "Lula ao Molho Picante 🌶",
     "chinese_title": "辣子鲜鱿",
     "description": "",
-    "price": "R$62,00",
+    "price": "R$65,00",
     "img": "images/613.jpg"
   },
   {
@@ -108,7 +108,7 @@
     "title": "Lula Frita com Verduras em Conserva",
     "chinese_title": "酸菜鲜鱿",
     "description": "",
-    "price": "R$64,00",
+    "price": "R$68,00",
     "img": "images/614.jpg"
   },
   {
@@ -116,7 +116,7 @@
     "title": "Pescadinha ao Molho Chinês",
     "chinese_title": "红烧黄鱼",
     "description": "",
-    "price": "R$52,00",
+    "price": "R$58,00",
     "img": "images/615.jpg"
   },
   {
@@ -124,7 +124,7 @@
     "title": "Caldo de Filé de Peixe Especial 🌶",
     "chinese_title": "水煮鱼片",
     "description": "",
-    "price": "R$58,00",
+    "price": "R$62,00",
     "img": "images/616.jpg"
   },
   {
@@ -132,7 +132,7 @@
     "title": "Caldo de Filé de Peixe com Verduras em Conserva 🌶",
     "chinese_title": "酸菜鱼片",
     "description": "",
-    "price": "R$58,00",
+    "price": "R$62,00",
     "img": "images/617.jpg"
   },
   {
@@ -140,7 +140,7 @@
     "title": "Beringela Frita Sabor ao Mar 🌶",
     "chinese_title": "鱼香茄子",
     "description": "",
-    "price": "R$40,00",
+    "price": "R$42,00",
     "img": "images/618.jpg"
   },
   {
@@ -148,23 +148,23 @@
     "title": "Família Feliz (Frango, Carne, Camarão e Verduras)",
     "chinese_title": "全家福",
     "description": "",
-    "price": "R$55,00",
+    "price": "R$60,00",
     "img": "images/619.jpg"
   },
   {
     "id": 20,
-    "title": "Tofu Frito da Casa",
+    "title": "Tofu Frito da Casa (Carne, Frango e Verduras)",
     "chinese_title": "家常豆腐",
     "description": "",
-    "price": "R$40,00",
+    "price": "R$45,00",
     "img": "images/620.jpg"
   },
   {
     "id": 21,
-    "title": "Tofu Frito ao Molho Picante Especial 🌶",
+    "title": "Tofu Picante Estilo Mapo 🌶",
     "chinese_title": "麻辣豆腐",
     "description": "",
-    "price": "R$40,00",
+    "price": "R$45,00",
     "img": "images/621.jpg"
   },
   {
@@ -172,7 +172,7 @@
     "title": "Bolinhos de Tofu com Frutos do Mar",
     "chinese_title": "海鲜豆腐泡",
     "description": "",
-    "price": "R$52,00",
+    "price": "R$55,00",
     "img": "images/622.jpg"
   },
   {
@@ -180,15 +180,15 @@
     "title": "Peixe Espada Frito ao Molho da Casa",
     "chinese_title": "香煎带鱼",
     "description": "",
-    "price": "R$42,00",
+    "price": "R$45,00",
     "img": "images/623.jpg"
   },
   {
     "id": 24,
-    "title": "Camarão Picante 🌶",
+    "title": "Camarão Picante Estilo Gongbao 🌶",
     "chinese_title": "宫保虾仁",
     "description": "",
-    "price": "R$62,00",
+    "price": "R$65,00",
     "img": "images/624.jpg"
   },
   {
@@ -196,7 +196,7 @@
     "title": "Brócolis Frito com Camarão",
     "chinese_title": "虾仁西兰花",
     "description": "",
-    "price": "R$64,00",
+    "price": "R$70,00",
     "img": "images/626.jpg"
   },
   {
@@ -204,15 +204,15 @@
     "title": "Brócolis Frito com Carne",
     "chinese_title": "西兰花炒牛肉",
     "description": "",
-    "price": "R$54,00",
+    "price": "R$62,00",
     "img": "images/627.jpg"
   },
   {
     "id": 27,
-    "title": "Ensopado de Carne ao Molho Picante 🌶",
+    "title": "Caldo de Carne Fatiada Picante ao Estilo Sichuan 🌶",
     "chinese_title": "水煮牛肉",
     "description": "",
-    "price": "R$55,00",
+    "price": "R$60,00",
     "img": "images/628.jpg"
   },
   {
@@ -220,7 +220,7 @@
     "title": "Carne na Chapa ao Estilo da Casa",
     "chinese_title": "铁板牛肉",
     "description": "",
-    "price": "R$60,00",
+    "price": "R$68,00",
     "img": "images/629.jpg"
   },
   {
@@ -228,7 +228,7 @@
     "title": "Polvo na Chapa ao Estilo da Casa",
     "chinese_title": "铁板八爪鱼",
     "description": "",
-    "price": "R$82,00",
+    "price": "R$85,00",
     "img": "images/630.jpg"
   },
   {
@@ -260,7 +260,7 @@
     "title": "Carne Fatiada com Aspargos",
     "chinese_title": "芦笋牛肉片",
     "description": "",
-    "price": "R$64,00",
+    "price": "R$68,00",
     "img": "images/634.jpg"
   },
   {
@@ -268,7 +268,7 @@
     "title": "Buchinho Bovino com Verduras Picantes 🌶",
     "chinese_title": "爆炒牛百叶",
     "description": "",
-    "price": "R$50,00",
+    "price": "R$52,00",
     "img": "images/635.jpg"
   },
   {
@@ -276,7 +276,7 @@
     "title": "Pimenta Verde com Tofu Seco",
     "chinese_title": "小尖椒香干",
     "description": "",
-    "price": "R$43,00",
+    "price": "R$48,00",
     "img": "images/636.jpg"
   },
   {
@@ -284,7 +284,7 @@
     "title": "Melãozinho com Carne",
     "chinese_title": "苦瓜肉片",
     "description": "",
-    "price": "R$50,00",
+    "price": "R$54,00",
     "img": "images/637.jpg"
   },
   {
@@ -292,7 +292,7 @@
     "title": "Carne Sabor Cominho 🌶",
     "chinese_title": "孜然牛肉",
     "description": "",
-    "price": "R$52,00",
+    "price": "R$55,00",
     "img": "images/638.jpg"
   }
 ]

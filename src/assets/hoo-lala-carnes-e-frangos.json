@@ -4,7 +4,7 @@
     "title": "Carne Acebolada",
     "chinese_title": "洋葱牛肉",
     "description": "",
-    "price": "R$49,00",
+    "price": "R$52,00",
     "img": "images/502.jpg"
   },
   {
@@ -12,7 +12,7 @@
     "title": "Carne Frita ao Molho de Ostras",
     "chinese_title": "蚝油牛肉",
     "description": "",
-    "price": "R$49,00",
+    "price": "R$52,00",
     "img": "images/501.jpg"
   },
   {
@@ -20,7 +20,7 @@
     "title": "Carne Frita ao Molho Picante 🌶",
     "chinese_title": "辣子牛肉",
     "description": "",
-    "price": "R$49,00",
+    "price": "R$53,00",
     "img": "images/503.jpg"
   },
   {
@@ -28,7 +28,7 @@
     "title": "Carne Frita com Pimentão Verde",
     "chinese_title": "青椒牛肉",
     "description": "",
-    "price": "R$49,00",
+    "price": "R$52,00",
     "img": "images/504.jpg"
   },
   {
@@ -36,7 +36,7 @@
     "title": "Carne Frita com Curry",
     "chinese_title": "咖哩牛肉",
     "description": "",
-    "price": "R$50,00",
+    "price": "R$58,00",
     "img": "images/505.jpg"
   },
   {
@@ -44,7 +44,7 @@
     "title": "Frango ao Molho Picante 🌶",
     "chinese_title": "宫宝鸡丁",
     "description": "",
-    "price": "R$48,00",
+    "price": "R$50,00",
     "img": "images/506.jpg"
   },
   {
@@ -52,7 +52,7 @@
     "title": "Frango ao Curry",
     "chinese_title": "咖喱鸡",
     "description": "",
-    "price": "R$48,00",
+    "price": "R$50,00",
     "img": "images/508.jpg"
   },
   {
@@ -60,7 +60,7 @@
     "title": "Frango Frito com Pimentão Verde",
     "chinese_title": "青椒鸡片",
     "description": "",
-    "price": "R$48,00",
+    "price": "R$50,00",
     "img": "images/509.jpg"
   },
   {
@@ -68,7 +68,7 @@
     "title": "Asinha de Frango Frita com Sal e Pimenta",
     "chinese_title": "椒盐鸡翅",
     "description": "",
-    "price": "R$48,00",
+    "price": "R$50,00",
     "img": "images/507.jpg"
   },
   {
@@ -76,7 +76,7 @@
     "title": "Asinha de Frango ao Molho Coca-Cola",
     "chinese_title": "可乐鸡翅",
     "description": "",
-    "price": "R$48,00",
+    "price": "R$50,00",
     "img": "images/510.jpg"
   }
 ]

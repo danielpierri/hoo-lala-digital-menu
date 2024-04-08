@@ -4,7 +4,7 @@
     "title": "Guioza Frito ou Cozido",
     "chinese_title": "煎饺/水饺",
     "description": "",
-    "price": "R$25,00",
+    "price": "R$28,00",
     "img": "images/301.jpg"
   },
   {
@@ -20,7 +20,7 @@
     "title": "Lámen Caseiro (Tomate e Ovos/Carne/Costela de Porco)",
     "chinese_title": "手擀面 (西红柿鸡蛋/牛肉/排骨)",
     "description": "",
-    "price": "R$28,00",
+    "price": "R$30,00",
     "img": "images/302.jpg"
   },
   {
@@ -28,7 +28,7 @@
     "title": "Lámen Caseiro Frito",
     "chinese_title": "干炒手擀面",
     "description": "",
-    "price": "R$34,00",
+    "price": "R$36,00",
     "img": "images/303.jpg"
   },
   {
@@ -36,7 +36,7 @@
     "title": "Lámen Frito Especial ao Estilo da Casa",
     "chinese_title": "本店特色拌面",
     "description": "",
-    "price": "R$32,00",
+    "price": "R$34,00",
     "img": "images/304.jpg"
   },
   {
@@ -44,7 +44,7 @@
     "title": "Lámen da Casa",
     "chinese_title": "本店手擀面",
     "description": "",
-    "price": "R$32,00",
+    "price": "R$35,00",
     "img": "images/305.jpg"
   },
   {
@@ -60,7 +60,7 @@
     "title": "Lámen de Cordeiro",
     "chinese_title": "红烧羊肉/羊杂手擀面",
     "description": "",
-    "price": "R$40,00",
+    "price": "R$42,00",
     "img": "images/306.jpg"
   },
   {
@@ -68,7 +68,7 @@
     "title": "Massa Branca de Arroz Frito",
     "chinese_title": "炒年糕",
     "description": "",
-    "price": "R$30,00",
+    "price": "R$32,00",
     "img": "images/307.jpg"
   },
   {
@@ -76,7 +76,7 @@
     "title": "Macarrão de Arroz Frito (Bifum)",
     "chinese_title": "干炒米粉",
     "description": "",
-    "price": "R$30,00",
+    "price": "R$32,00",
     "img": "images/308.jpg"
   },
   {
@@ -84,7 +84,7 @@
     "title": "Macarrão de Arroz Fresco Frito com Carne (Hefen)",
     "chinese_title": "干炒牛河",
     "description": "",
-    "price": "R$36,00",
+    "price": "R$38,00",
     "img": "images/309.jpg"
   },
   {
@@ -92,7 +92,7 @@
     "title": "Yakisoba de Frutos do Mar",
     "chinese_title": "海鲜炒面",
     "description": "",
-    "price": "R$34,00",
+    "price": "R$36,00",
     "img": "images/310.jpg"
   },
   {
@@ -100,7 +100,7 @@
     "title": "Yakisoba de Carne, Frango ou Misto",
     "chinese_title": "炒面 (牛肉/鸡肉/什锦)",
     "description": "",
-    "price": "R$28,00",
+    "price": "R$30,00",
     "img": "images/311.jpg"
   },
   {
@@ -108,7 +108,7 @@
     "title": "Arroz Frito Três Delícias",
     "chinese_title": "三鲜炒饭",
     "description": "",
-    "price": "R$28,00",
+    "price": "R$32,00",
     "img": "images/312.jpg"
   },
   {
@@ -116,7 +116,7 @@
     "title": "Arroz Frito com Carne",
     "chinese_title": "牛肉炒饭",
     "description": "",
-    "price": "R$32,00",
+    "price": "R$35,00",
     "img": "images/313.jpg"
   },
   {
@@ -124,7 +124,7 @@
     "title": "Arroz Frito ao Estilo Yangzhou",
     "chinese_title": "杨州炒饭",
     "description": "",
-    "price": "R$28,00",
+    "price": "R$30,00",
     "img": "images/314.jpg"
   },
   {
@@ -132,7 +132,7 @@
     "title": "Arroz Frito com Verduras Secas",
     "chinese_title": "梅干菜炒饭",
     "description": "",
-    "price": "R$30,00",
+    "price": "R$32,00",
     "img": "images/321.jpg"
   },
   {
@@ -140,7 +140,7 @@
     "title": "Arroz Frito com Lombo Suíno e Vagem em Conserva",
     "chinese_title": "酸豆角肉末炒饭",
     "description": "",
-    "price": "R$30,00",
+    "price": "R$32,00",
     "img": "images/327.jpg"
   },
   {
@@ -148,7 +148,7 @@
     "title": "Arroz Frito da Casa",
     "chinese_title": "本店特色炒饭",
     "description": "",
-    "price": "R$38,00",
+    "price": "R$40,00",
     "img": "images/328.jpg"
   }
 ]

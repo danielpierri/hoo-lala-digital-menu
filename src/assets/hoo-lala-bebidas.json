@@ -17,7 +17,7 @@
     "id": 12,
     "title": "Sucos Naturais (300 ml)",
     "chinese_title": "天然果汁",
-    "price": "R$10,90",
+    "price": "R$12,90",
     "img": "images/suco-2.jpg"
   },
   {
@@ -31,7 +31,7 @@
     "id": 14,
     "title": "Sucos Mistos (300 ml)",
     "chinese_title": "混合果汁",
-    "price": "R$12,50",
+    "price": "R$13,90",
     "img": "images/sucos-mistos.jpg"
   },
   {
@@ -45,19 +45,19 @@
     "id": 16,
     "title": "Suco Del Valle (sabores)",
     "chinese_title": "盒裝果汁",
-    "price": "R$8,90",
+    "price": "R$9,50",
     "img": "images/suco-del-valle.png"
   },
   {
     "id": 17,
     "title": "Chá Chinês Gelado",
     "chinese_title": "中國冰茶",
-    "price": "R$12,00",
+    "price": "R$15,00",
     "img": "images/cha-chines-gelado.jpeg"
   },
   {
     "id": 18,
-    "title": "Garrafa de Chá com Sabores de Frutas (500 ml)",
+    "title": "Garrafa de Chá com Sabores de Frutas Kom Shifu (500 ml)",
     "chinese_title": "水果茶瓶",
     "price": "R$18,00",
     "img": "images/cha-de-frutas.jpg"
@@ -162,7 +162,7 @@
   },
   {
     "id": 37,
-    "title": "Heineken Longneck (600 ml)",
+    "title": "Cerveja (600 ml)",
     "chinese_title": "長頸啤酒",
     "price": "R$18,00",
     "img": "images/heineken-600.jpg"
@@ -171,7 +171,7 @@
     "id": 38,
     "title": "Corona Longneck (330 ml)",
     "chinese_title": "長頸啤酒",
-    "price": "R$11,90",
+    "price": "R$12,90",
     "img": "images/corona-longneck.png"
   }
 ]
