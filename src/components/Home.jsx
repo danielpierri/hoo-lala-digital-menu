@@ -10,6 +10,7 @@ import hooLalaComidasDaCasa from "../assets/hoo-lala-comidas-da-casa.json"
 import hooLalaMassasEArroz from "../assets/hoo-lala-massas-e-arroz.json"
 import hooLalaPratosFrios from "../assets/hoo-lala-pratos-frios.json"
 import hooLalaSopasECaldos from "../assets/hoo-lala-sopas-e-caldos.json"
+import hooLalaSobremesas from "../assets/hoo-lala-sobremesas.json"
 import hooLalaBebidas from "../assets/hoo-lala-bebidas.json"
 import hooLalaCafes from "../assets/hoo-lala-cafes.json"
 import hooLalaBubbleTea from "../assets/hoo-lala-bubble-tea.json"
@@ -26,6 +27,7 @@ const Home = () => {
   const [massasEArroz] = useFetch(hooLalaMassasEArroz)
   const [pratosFrios] = useFetch(hooLalaPratosFrios)
   const [sopasECaldos] = useFetch(hooLalaSopasECaldos)
+  const [sobremesas] = useFetch(hooLalaSobremesas)
   const [bebidas] = useFetch(hooLalaBebidas)
   const [cafes] = useFetch(hooLalaCafes)
   const [bubbleTea] = useFetch(hooLalaBubbleTea)
@@ -41,6 +43,7 @@ const Home = () => {
   const [showMassasEArroz, setShowMassasEArroz] = useToggle()
   const [showPratosFrios, setShowPratosFrios] = useToggle()
   const [showSopasECaldos, setShowSopasECaldos] = useToggle()
+  const [showSobremesas, setShowSobremesas] = useToggle()
   const [showBebidas, setShowBebidas] = useToggle()
   const [showCafes, setShowCafes] = useToggle()
   const [showBubbleTea, setShowBubbleTea] = useToggle()
@@ -92,6 +95,8 @@ const Home = () => {
               <Menu menu={pratosFrios} menuTitle={"Pratos Frios"} showMenu={showPratosFrios} toggleMenu={setShowPratosFrios} />
 
               <Menu menu={sopasECaldos} menuTitle={"Sopas e Caldos"} showMenu={showSopasECaldos} toggleMenu={setShowSopasECaldos} />
+
+              <Menu menu={sobremesas} menuTitle={"Sobremesas"} showMenu={showSobremesas} toggleMenu={setShowSobremesas} />
 
               <Menu menu={bebidas} menuTitle={"Bebidas e Sucos"} showMenu={showBebidas} toggleMenu={setShowBebidas} />
 
