@@ -3,42 +3,42 @@
     "id": 10,
     "title": "Vitaminas (300 ml)",
     "chinese_title": "果汁到牛奶",
-    "price": "R$11,50",
+    "price": "R$12,50",
     "img": "images/vitamina-2.jpg"
   },
   {
     "id": 11,
     "title": "Vitaminas (500 ml)",
     "chinese_title": "果汁到牛奶",
-    "price": "R$15,50",
+    "price": "R$16,50",
     "img": "images/vitamina.jpg"
   },
   {
     "id": 12,
     "title": "Sucos Naturais (300 ml)",
     "chinese_title": "天然果汁",
-    "price": "R$12,90",
+    "price": "R$13,50",
     "img": "images/suco-2.jpg"
   },
   {
     "id": 13,
     "title": "Sucos Naturais (500 ml)",
     "chinese_title": "天然果汁",
-    "price": "R$15,90",
+    "price": "R$16,50",
     "img": "images/suco.jpg"
   },
   {
     "id": 14,
     "title": "Sucos Mistos (300 ml)",
     "chinese_title": "混合果汁",
-    "price": "R$13,90",
+    "price": "R$14,50",
     "img": "images/sucos-mistos.jpg"
   },
   {
     "id": 15,
     "title": "Sucos Mistos (500 ml)",
     "chinese_title": "混合果汁",
-    "price": "R$16,90",
+    "price": "R$17,50",
     "img": "images/sucos-mistos-2.jpg"
   },
   {
@@ -73,42 +73,42 @@
     "id": 20,
     "title": "Refrigerante (lata de 220 ml)",
     "chinese_title": "小蘇打水",
-    "price": "R$6,80",
+    "price": "R$7,50",
     "img": "images/refrigerante-220.jpg"
   },
   {
     "id": 21,
     "title": "Refrigerante (lata de 350 ml)",
     "chinese_title": "冰箱",
-    "price": "R$8,80",
+    "price": "R$9,50",
     "img": "images/refrigerante-350.jpg"
   },
   {
     "id": 22,
     "title": "Guaravita",
     "chinese_title": "天然瓜拉那",
-    "price": "R$4,90",
+    "price": "R$5,90",
     "img": "images/guaravita.jpg"
   },
   {
     "id": 23,
     "title": "Guaraviton",
     "chinese_title": "大量天然瓜拉納",
-    "price": "R$9,90",
+    "price": "R$11,90",
     "img": "images/guaraviton.jpg"
   },
   {
     "id": 24,
     "title": "Refrigerante H2OH!",
     "chinese_title": "檸檬汽水",
-    "price": "R$9,90",
+    "price": "R$11,90",
     "img": "images/refrigerante-h2oh.webp"
   },
   {
     "id": 25,
     "title": "Matte Leão",
     "chinese_title": "马黛茶",
-    "price": "R$7,50",
+    "price": "R$8,50",
     "img": "images/matte-leao.jpg"
   },
   {
@@ -129,7 +129,7 @@
     "id": 32,
     "title": "Caipirinha",
     "chinese_title": "凱匹林納雞尾酒",
-    "price": "R$16,00",
+    "price": "R$18,00",
     "img": "images/caipirinha.png"
   },
   {
@@ -157,7 +157,7 @@
     "id": 36,
     "title": "Heineken Longneck (330 ml)",
     "chinese_title": "長頸啤酒",
-    "price": "R$11,90",
+    "price": "R$12,90",
     "img": "images/heineken-330.webp"
   },
   {
@@ -171,7 +171,7 @@
     "id": 38,
     "title": "Corona Longneck (330 ml)",
     "chinese_title": "長頸啤酒",
-    "price": "R$12,90",
+    "price": "R$13,90",
     "img": "images/corona-longneck.png"
   }
 ]

@@ -4,7 +4,7 @@
     "title": "Salada de Alga Marinha",
     "chinese_title": "凉拌海带",
     "description": "",
-    "price": "R$32,00",
+    "price": "R$35,00",
     "img": "images/101.jpg"
   },
   {
@@ -12,7 +12,7 @@
     "title": "Salada de Pé de Galinha",
     "chinese_title": "凉拌凤爪",
     "description": "",
-    "price": "R$35,00",
+    "price": "R$38,00",
     "img": "images/102.jpg"
   },
   {
@@ -20,7 +20,7 @@
     "title": "Salada de Tofu com Ovos em Conserva",
     "chinese_title": "凉拌皮蛋豆腐",
     "description": "",
-    "price": "R$42,00",
+    "price": "R$45,00",
     "img": "images/103.jpg"
   },
   {
@@ -36,7 +36,7 @@
     "title": "Salada de Alga Japonesa",
     "chinese_title": "凉拌海菜",
     "description": "",
-    "price": "R$38,00",
+    "price": "R$40,00",
     "img": "images/105.jpg"
   }
 ]

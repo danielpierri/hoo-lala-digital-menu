@@ -3,28 +3,28 @@
     "id": 1,
     "title": "Café Pequeno",
     "chinese_title": "小咖啡",
-    "price": "R$4,00",
+    "price": "R$4,50",
     "img": "images/cafe.jpg"
   },
   {
     "id": 2,
     "title": "Café Pingado",
     "chinese_title": "咖啡加少量牛奶",
-    "price": "R$5,50",
+    "price": "R$6,50",
     "img": "images/cafe-pingado.jpg"
   },
   {
     "id": 3,
     "title": "Café com Leite",
     "chinese_title": "咖啡加牛奶",
-    "price": "R$6,50",
+    "price": "R$7,50",
     "img": "images/cafe-com-leite.jpg"
   },
   {
     "id": 4,
     "title": "Café Expresso",
     "chinese_title": "濃咖啡",
-    "price": "R$6,90",
+    "price": "R$7,50",
     "img": "images/cafe-expresso.jpg"
   },
   {
