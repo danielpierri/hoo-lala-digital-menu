@@ -6,8 +6,8 @@ const Footer = () => {
         <ul className="footer__contact">
 
           <li>
-            <i className="fa-solid fa-phone"></i> 
-            <a href="tel:+5521984870140" target="_blank" rel="noreferrer">(21) 2252-4502</a>
+            <i className="fa-solid fa-phone"></i>
+            <a href="tel:+552122524502" target="_blank" rel="noreferrer">(21) 2252-4502</a>
           </li>
 
           <li>
